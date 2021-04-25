@@ -10,16 +10,22 @@ name_dict = {
 
 def sort_func(el):
     ret = 0
+    print(el)
     remaining = el.split('/')[1]
     chap = int(remaining[:2])
     ret += chap*10000
     remaining = remaining[2:]
     remaining = remaining.split('_')[-1]
     remaining = remaining.split('.')[0]
+    if any(x in remaining for x in ['pi', 'an', 'ze', 'rn']):
+        ret += 0.1
+        remaining = remaining[2:]
     try:
-
-    1/0
-
+        ret += int(remaining)
+    except:
+        ret += int(remaining[:-1]) + 0.5
+    print(ret)
+    return ret
 
 def get_fnames():
     ret = []
@@ -32,33 +38,33 @@ def create_translation_csv(outname=''):
     total_lines = []
     fnames = get_fnames()
     fnames = sorted(fnames, key=sort_func)
-    print(fnames)
-    1/0
     for fname in fnames:
-        with open(os.path.join('script', fname)) as f:
+        with open(fname) as f:
             scriptline = f.readline()
             while scriptline:
                 scriptline = f.readline()
-                if 'ruby' in scriptline:
-                    next_line = f.readline()
-                    endruby = f.readline()
-                    next_next_line = f.readline()
-                    scriptline = next_line[:-3] + next_next_line[1:]
-                m = re.search(r'^"(.*)",$', scriptline)
-                try:
-                    total_lines.append(m.group(1))
-                except:
-                    continue
-    unique_set = set()
-    unique_add = unique_set.add
-    unique_lines = [x for x in total_lines if not (x in unique_set or unique_add(x))]
-    print('Total number of lines: {}, Number of unique lines: {}'.format(len(total_lines), len(unique_lines)))
+                # if 'ruby' in scriptline:
+                #     next_line = f.readline()
+                #     endruby = f.readline()
+                #     next_next_line = f.readline()
+                #     scriptline = next_line[:-3] + next_next_line[1:]
+                # m = re.search(r'^"(.*)",$', scriptline)
+                # try:
+                #     total_lines.append(m.group(1))
+                # except:
+                #     continue
+                total_lines.append((scriptline, fname))
+    # unique_set = set()
+    # unique_add = unique_set.add
+    # unique_lines = [x for x in total_lines if not (x in unique_set or unique_add(x))]
+    # print('Total number of lines: {}, Number of unique lines: {}'.format(len(total_lines), len(unique_lines)))
+    print('Total number of lines: {}'.format(len(total_lines)))
 
     with open(outname, 'w') as csvfile:
         csvwriter = csv.writer(csvfile)
-        for line in unique_lines:
+        for line, fname in total_lines:
             # print(line)
-            csvwriter.writerow([line, line])
+            csvwriter.writerow([line, line, fname])
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
