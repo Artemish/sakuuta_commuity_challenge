@@ -9,4 +9,5 @@ Participants:
 3. @Hayashishintoku
 4. @3dmakai
 5. @superange128 (H-scene)
-6. 
+6. @kayi___
+7. 
