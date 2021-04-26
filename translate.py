@@ -49,6 +49,7 @@ name_dict = {
     '中村章一': "Sho'ichi Nakamura",
     '方相氏': 'Master of the Astral Square',
     '村山理事': 'Director Murayama',
+    '井上理事': 'Director Inoue',
     '丘沢': 'Okazawa',  # TODO: Who is this even? Check if name is correct
     '村田': 'Murata',
     '坂本': 'Sakamoto',
@@ -104,6 +105,8 @@ name_dict = {
     '子供Ａ': 'Child A',
     '子供Ｂ': 'Child B',
     '黒服Ａ': 'Bodyguard A',
+    '黒服Ｂ': 'Bodyguard B',
+    '黒服Ａ＆黒服Ｂ': 'Bodyguard A and Bodyguard B',
     '男性Ｃ': 'Man C',
     'サラリーマンＡ': 'Salaryman A',
     'サラリーマンＢ': 'Salaryman B',
