@@ -143,34 +143,69 @@ def create_translation_csv(outname=''):
             while scriptline:
                 scriptline = f.readline()
                 m = re.search(r'.*?>([^a-zA-Z].*)', scriptline)
-                # print(m.group(1))
                 if m is not None:
-                    # print(scriptline)
-                    # print(m.group(1))
                     jp_line = m.group(1)
                     if jp_line not in name_dict.keys() and '#FFFFFF' not in jp_line:  # TODO: Fix
                         total_lines.append((jp_line, fname))
-                # if 'ruby' in scriptline:
-                #     next_line = f.readline()
-                #     endruby = f.readline()
-                #     next_next_line = f.readline()
-                #     scriptline = next_line[:-3] + next_next_line[1:]
-                # m = re.search(r'^"(.*)",$', scriptline)
-                # try:
-                #     total_lines.append(m.group(1))
-                # except:
-                #     continue
-    # unique_set = set()
-    # unique_add = unique_set.add
-    # unique_lines = [x for x in total_lines if not (x in unique_set or unique_add(x))]
-    # print('Total number of lines: {}, Number of unique lines: {}'.format(len(total_lines), len(unique_lines)))
     print('Total number of lines: {}'.format(len(total_lines)))
 
     with open(outname, 'w') as csvfile:
         csvwriter = csv.writer(csvfile)
         for line, fname in total_lines:
-            # print(line)
             csvwriter.writerow([line, line, fname])
+
+def create_translation_scripts():
+    translation = {}
+    with open('translation.csv', 'r') as csvfile:
+        csvreader = csv.reader(csvfile)
+        for row in csvreader:
+            translation[row[0]] = row[1]
+
+    fnames = get_fnames()
+    fnames = sorted(fnames, key=sort_func)
+    for fname in fnames:
+        outname = os.path.join('Script/CVTD', fname.split('/')[1].split('.')[0])
+        print(fname)
+        print(outname)
+        with open(outname, 'w') as en_f:
+            with open(fname, 'r') as jp_f:
+                jp_scriptline = jp_f.readline()
+                en_f.write(jp_scriptline)
+                while jp_scriptline:
+                    jp_scriptline = jp_f.readline()
+                    # if 'ruby' in jp_scriptline:
+                    #     next_line = jp_f.readline()
+                    #     endruby = jp_f.readline()
+                    #     next_next_line = jp_f.readline()
+                    #     jp_scriptline = next_line[:-3] + next_next_line[1:]
+                    # if 'name' in jp_scriptline and '？？？' not in jp_scriptline:
+                    #     m = re.search(r'^name={name="(.*)"},$', jp_scriptline)
+                    #     name = m.group(1)
+                    #     eng_line = 'name={{name="{}"}},\n'.format(name_dict[name])
+                    #     en_f.write(eng_line)
+                    #     continue
+                    # m = re.search(r'^"(.*)",$', jp_scriptline)
+                    m = re.search(r'(.*?>)([^a-zA-Z].*)', jp_scriptline)
+                    # if m.group(2) is not None:
+                    if m is not None:
+                        jp_line = m.group(2)
+                        if jp_line not in name_dict.keys() and '#FFFFFF' not in jp_line:  # TODO: Fix
+                            eng_line = '{}{}\n'.format(m.group(1), translation[m.group(2)])
+                            en_f.write(eng_line)
+                        if jp_line in name_dict.keys():
+                            eng_line = '{}{}\n'.format(m.group(1), name_dict[m.group(2)])
+                            en_f.write(eng_line)
+                    else:
+                        en_f.write(jp_scriptline)
+
+                    # try:
+                    #     eng_line = '"{}",\n'.format(translation[m.group(1)])
+                    #     en_f.write(eng_line)
+                    #     # print('Replaced {} with {}'.format(scriptline, eng_line))
+                    # except AttributeError:
+                    #     en_f.write(jp_scriptline)
+
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
