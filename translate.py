@@ -165,7 +165,7 @@ def create_translation_scripts():
     fnames = sorted(fnames, key=sort_func)
     en_files = []
     for fname in fnames:
-        outname = os.path.join('txt_scripts_en', fname.split('/')[1].split('.')[0])
+        outname = os.path.join('txt_scripts_en', fname.split('/')[1].split('.')[0] + '.txt')
         print(fname)
         print(outname)
         with open(outname, 'w') as en_f:
