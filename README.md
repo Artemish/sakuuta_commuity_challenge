@@ -1,6 +1,8 @@
 # Sakura no Uta Community Challenge
 
-Everyone translates 1000 lines of Sakura no Uta. We will bring this game to the Western world through the power of FRIENDSHIP.
+Everyone translates 1000 lines of Sakura no Uta. We will bring this game to the English-speaking world through the power of FRIENDSHIP.
+
+Sakura no Uta has approximately 63198 lines.
 
 Participants:
 
