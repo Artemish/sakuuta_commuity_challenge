@@ -22,7 +22,7 @@ name_dict = {
     '伯奇': 'Hakuki',
     'ノノ未': 'Nonomi',
     'ルリヲ': 'Ruriwo',
-    '拓実': 'Takumi',
+    '片貝': 'Katami',
     '鈴菜': 'Suzuna',
     '優美': 'Yuumi',
     '奈津子': 'Natsuko',
@@ -35,7 +35,8 @@ name_dict = {
     '琴子': 'Kotoko',
     '霧乃': 'Kirino',
     '寧': 'Nei',
-    '桜子': 'Sakurako',
+    '咲崎': 'Sakizaki',
+    '桜子': 'Sakurako',  # TODO: Does her name really change throught the novel??? I saw both
     '吹': 'Sui',
     'トーマス': 'Thomas',
     '紗希': 'Saki',
@@ -44,12 +45,37 @@ name_dict = {
     '琢磨': 'Takuma',
     # Not on VNDB
     '？？？': '???',
+    '葛': 'Kuzu',
+    '中村章一': "Sho'ichi Nakamura",
+    '方相氏': 'Master of the Astral Square',
+    '村山理事': 'Director Murayama',
+    '丘沢': 'Okazawa',  # TODO: Who is this even? Check if name is correct
+    '村田': 'Murata',
+    '坂本': 'Sakamoto',
+    '麗華': 'Reika',
+    '御桜父親': "Rin's Father",
+    '東浪見': 'Put name here later',  # TODO
+    '一宮': 'Put name here later',  # TODO
+    '中里': 'Put name here later',  # TODO
     '一同': 'Everyone',
+    '中年': 'Old Man',
     '店主': 'Shopkeeper',
+    '女性店主': 'Female Shopkeeper',
     '生徒会長': 'Student Council President',
     '副会長': 'Student Council Vice President',
+    '男': 'Man',
+    '少女': 'Girl',
+    '校長': 'Principal',
     '直哉＆吹': 'Naoya and Sui',
+    '教師': 'Teacher',
+    '報道陣': 'Press',
+    '男司会者': 'Male MC',
+    '女司会者': 'Female MC',
+    '女弁護士': 'Female Lawyer',
+    '女子校生': 'Schoolgirl',
+    '女子校生達': 'Schoolgirls',
     '教師Ａ': 'Teacher A',
+    '教師Ｂ': 'Teacher B',
     '客Ａ': 'Customer A',
     '客Ｂ': 'Customer B',
     '客Ｃ': 'Customer C',
@@ -57,11 +83,28 @@ name_dict = {
     '常連客Ｂ': 'Regular Customer B',
     '常連客Ｃ': 'Regular Customer C',
     '常連客Ｄ': 'Regular Customer D',
-    '男子校生Ａ': 'Male Student A',
-    '男子校生Ｂ': 'Male Student B',
-    '男子校生Ｃ': 'Male Student C',
+    '男子校生Ａ': 'Schoolboy A',
+    '男子校生Ｂ': 'Schoolboy B',
+    '男子校生Ｃ': 'Schoolboy C',
+    '女子校生Ａ': 'Schoolgirl A',
+    '女子校生Ｂ': 'Schoolgirl B',
+    '女子校生Ｃ': 'Schoolgirl C',
+    '女子校生Ｄ': 'Schoolgirl D',
+    '女子校生Ｅ': 'Schoolgirl E',
+    '女子学生Ａ': 'Female Student A',
+    '女子学生Ｂ': 'Female Student B',
+    '男子生徒Ａ': 'Male Student A',
+    '男子生徒Ｂ': 'Male Student B',
+    '男子生徒Ｃ': 'Male Student C',
+    '男子生徒Ｄ': 'Male Student D',
     '子供Ａ': 'Child A',
     '子供Ｂ': 'Child B',
+    '黒服Ａ': 'Bodyguard A',
+    '男性Ｃ': 'Man C',
+    'サラリーマンＡ': 'Salaryman A',
+    'サラリーマンＢ': 'Salaryman B',
+    '洋服屋店員Ａ': 'Clothing Store Employee A',
+    '洋服屋店員Ｂ': 'Clothing Store Employee B',
 }
 
 def sort_func(el):
@@ -105,7 +148,7 @@ def create_translation_csv(outname=''):
                     # print(scriptline)
                     # print(m.group(1))
                     jp_line = m.group(1)
-                    if jp_line not in name_dict.keys():
+                    if jp_line not in name_dict.keys() and '#FFFFFF' not in jp_line:  # TODO: Fix
                         total_lines.append((jp_line, fname))
                 # if 'ruby' in scriptline:
                 #     next_line = f.readline()
