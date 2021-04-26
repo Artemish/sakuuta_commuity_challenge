@@ -12,7 +12,8 @@ Participants:
 4. @3dmakai
 5. @superange128 (H-scene)
 6. @kayi___
-7. 
+7. u/VisualNovelInfoHata
+8. 
 
 # What you need to do:
 
