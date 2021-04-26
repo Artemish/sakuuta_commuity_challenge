@@ -144,6 +144,16 @@ def sort_func(el):
     chap = int(remaining[:2])
     ret += chap*10000
     remaining = remaining[2:]
+    if 'picapica' in remaining:
+        ret += 1000
+    if 'olympia' in remaining:
+        ret += 2000
+    if 'zypressen' in remaining:
+        ret += 3000
+    if 'marchen' in remaining:
+        ret += 4000
+    if 'andoe' in remaining:
+        ret += 5000
     remaining = remaining.split('_')[-1]
     remaining = remaining.split('.')[0]
     if any(x in remaining for x in ['pi', 'an', 'ze', 'rn']):
