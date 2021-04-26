@@ -6,6 +6,62 @@ import pprint
 import csv
 
 name_dict = {
+    # In VNDB Character list order
+    # Protagonist
+    '直哉': 'Naoya',
+    # Main Characters
+    '里奈': 'Rina',
+    '稟': 'Rin',
+    '藍': 'Ai',
+    '雫': 'Shizuku',
+    '真琴': 'Makoto',
+    # Side Characters
+    '小牧': 'Komaki',
+    '小沙智': 'Kosachi',
+    '明石': 'Akashi',
+    '伯奇': 'Hakuki',
+    'ノノ未': 'Nonomi',
+    'ルリヲ': 'Ruriwo',
+    '拓実': 'Takumi',
+    '鈴菜': 'Suzuna',
+    '優美': 'Yuumi',
+    '奈津子': 'Natsuko',
+    '健一郎': "Ken'ichiro",
+    'フリッドマン': 'Friedman',
+    '香奈': 'Kana',
+    '水菜': 'Mizuna',
+    '義貞': 'Yoshisada',
+    '圭': 'Kei',
+    '琴子': 'Kotoko',
+    '霧乃': 'Kirino',
+    '寧': 'Nei',
+    '桜子': 'Sakurako',
+    '吹': 'Sui',
+    'トーマス': 'Thomas',
+    '紗希': 'Saki',
+    '若田': 'Wakata',
+    # Makes an appearance
+    '琢磨': 'Takuma',
+    # Not on VNDB
+    '？？？': '???',
+    '一同': 'Everyone',
+    '店主': 'Shopkeeper',
+    '生徒会長': 'Student Council President',
+    '副会長': 'Student Council Vice President',
+    '直哉＆吹': 'Naoya and Sui',
+    '教師Ａ': 'Teacher A',
+    '客Ａ': 'Customer A',
+    '客Ｂ': 'Customer B',
+    '客Ｃ': 'Customer C',
+    '常連客Ａ': 'Regular Customer A',
+    '常連客Ｂ': 'Regular Customer B',
+    '常連客Ｃ': 'Regular Customer C',
+    '常連客Ｄ': 'Regular Customer D',
+    '男子校生Ａ': 'Male Student A',
+    '男子校生Ｂ': 'Male Student B',
+    '男子校生Ｃ': 'Male Student C',
+    '子供Ａ': 'Child A',
+    '子供Ｂ': 'Child B',
 }
 
 def sort_func(el):
@@ -43,6 +99,14 @@ def create_translation_csv(outname=''):
             scriptline = f.readline()
             while scriptline:
                 scriptline = f.readline()
+                m = re.search(r'.*?>([^a-zA-Z].*)', scriptline)
+                # print(m.group(1))
+                if m is not None:
+                    # print(scriptline)
+                    # print(m.group(1))
+                    jp_line = m.group(1)
+                    if jp_line not in name_dict.keys():
+                        total_lines.append((jp_line, fname))
                 # if 'ruby' in scriptline:
                 #     next_line = f.readline()
                 #     endruby = f.readline()
@@ -53,7 +117,6 @@ def create_translation_csv(outname=''):
                 #     total_lines.append(m.group(1))
                 # except:
                 #     continue
-                total_lines.append((scriptline, fname))
     # unique_set = set()
     # unique_add = unique_set.add
     # unique_lines = [x for x in total_lines if not (x in unique_set or unique_add(x))]
