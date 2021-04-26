@@ -58,8 +58,10 @@ name_dict = {
     '一宮': 'Put name here later',  # TODO
     '中里': 'Put name here later',  # TODO
     '一同': 'Everyone',
-    '中年': 'Old Man',
+    '中年': 'Middle-aged Man',
+    '老人': 'Old Man',
     '店主': 'Shopkeeper',
+    '管財人': 'Executor',
     '女性店主': 'Female Shopkeeper',
     '生徒会長': 'Student Council President',
     '副会長': 'Student Council Vice President',
@@ -107,6 +109,8 @@ name_dict = {
     'サラリーマンＢ': 'Salaryman B',
     '洋服屋店員Ａ': 'Clothing Store Employee A',
     '洋服屋店員Ｂ': 'Clothing Store Employee B',
+    '関係者Ａ': 'Concerned Party A',
+    '関係者Ｂ': 'Concerned Party B',
 }
 
 def sort_func(el):
