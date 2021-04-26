@@ -56,13 +56,18 @@ name_dict = {
     '坂本': 'Sakamoto',
     '麗華': 'Reika',
     '御桜父親': "Rin's Father",
+    '御桜母親': "Rin's Mother",
     '東浪見': 'Put name here later',  # TODO
     '一宮': 'Put name here later',  # TODO
     '中里': 'Put name here later',  # TODO
+    'おやっさん': 'Put name here later',  # TODO
+    '宇綱': 'Put name here later',  # TODO
+    '末竹': 'Put name here later',  # TODO
     '一同': 'Everyone',
     '中年': 'Middle-aged Man',
     '老人': 'Old Man',
     '店主': 'Shopkeeper',
+    '店員': 'Employee',
     '管財人': 'Executor',
     '女性店主': 'Female Shopkeeper',
     '生徒会長': 'Student Council President',
@@ -70,16 +75,23 @@ name_dict = {
     '男': 'Man',
     '少女': 'Girl',
     '校長': 'Principal',
+    '教頭': 'Vice Principal',
     '直哉＆吹': 'Naoya and Sui',
     '教師': 'Teacher',
     '報道陣': 'Press',
+    '看護婦': 'Nurse',
+    '神父': 'Priest',
+    '管理人': 'Caretaker',
     '男司会者': 'Male MC',
     '女司会者': 'Female MC',
+    '司会者': 'MC',
     '女弁護士': 'Female Lawyer',
     '女子校生': 'Schoolgirl',
     '女子校生達': 'Schoolgirls',
     '女子一同': 'All of the Girls',
     '男子一同': 'All of the Boys',
+    'バイトの子': 'Part-Time Employee',
+    '関係者': 'Concerned Party',
     'おっさんＡ': 'Old Guy A',
     'おっさんＢ': 'Old Guy B',
     '教師Ａ': 'Teacher A',
@@ -163,7 +175,7 @@ def create_translation_csv(outname=''):
                 m = re.search(r'.*?>([^a-zA-Z].*)', scriptline)
                 if m is not None:
                     jp_line = m.group(1)
-                    if jp_line not in name_dict.keys() and '#FFFFFF' not in jp_line:  # TODO: Fix
+                    if jp_line not in name_dict.keys() and '#FFFFFF' not in jp_line and '6sakura' not in jp_line:  # TODO: Fix
                         total_lines.append((jp_line, fname))
     print('Total number of lines: {}'.format(len(total_lines)))
 
@@ -207,7 +219,7 @@ def create_translation_scripts():
                     # if m.group(2) is not None:
                     if m is not None:
                         jp_line = m.group(2)
-                        if jp_line not in name_dict.keys() and '#FFFFFF' not in jp_line:  # TODO: Fix
+                        if jp_line not in name_dict.keys() and '#FFFFFF' not in jp_line and '6sakura' not in jp_line:  # TODO: Fix
                             check_jp_line, new_eng_line = translation[idx]
                             new_eng_line = str(idx) + new_eng_line  # For debugging
                             idx += 1
