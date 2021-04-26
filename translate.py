@@ -22,7 +22,7 @@ name_dict = {
     '伯奇': 'Hakuki',
     'ノノ未': 'Nonomi',
     'ルリヲ': 'Ruriwo',
-    '片貝': 'Katami',
+    '片貝': 'Katagai',
     '鈴菜': 'Suzuna',
     '優美': 'Yuumi',
     '奈津子': 'Natsuko',
@@ -80,6 +80,8 @@ name_dict = {
     '女子校生達': 'Schoolgirls',
     '女子一同': 'All of the Girls',
     '男子一同': 'All of the Boys',
+    'おっさんＡ': 'Old Guy A',
+    'おっさんＢ': 'Old Guy B',
     '教師Ａ': 'Teacher A',
     '教師Ｂ': 'Teacher B',
     '客Ａ': 'Customer A',
@@ -115,6 +117,12 @@ name_dict = {
     '洋服屋店員Ｂ': 'Clothing Store Employee B',
     '関係者Ａ': 'Concerned Party A',
     '関係者Ｂ': 'Concerned Party B',
+    '記者Ａ': 'Reporter A',
+    '記者Ｂ': 'Reporter B',
+    '記者Ｃ': 'Reporter C',
+    '生徒Ａ': 'Student A',
+    '生徒Ｂ': 'Student B', # Maybe no student B
+    '生徒Ｃ': 'Student C',
 }
 
 def sort_func(el):
