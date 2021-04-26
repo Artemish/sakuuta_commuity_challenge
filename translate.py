@@ -163,8 +163,9 @@ def create_translation_scripts():
 
     fnames = get_fnames()
     fnames = sorted(fnames, key=sort_func)
+    en_files = []
     for fname in fnames:
-        outname = os.path.join('Script/CVTD', fname.split('/')[1].split('.')[0])
+        outname = os.path.join('txt_scripts_en', fname.split('/')[1].split('.')[0])
         print(fname)
         print(outname)
         with open(outname, 'w') as en_f:
@@ -204,7 +205,6 @@ def create_translation_scripts():
                     #     # print('Replaced {} with {}'.format(scriptline, eng_line))
                     # except AttributeError:
                     #     en_f.write(jp_scriptline)
-
 
 
 if __name__ == '__main__':
