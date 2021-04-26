@@ -151,409 +151,409 @@
 <7604,75890,6>bgm012
 <7636,75897,10>ked_000008
 <7684,75502,2>Kei
-<7692,75908,18>101: 「な、なんだと！」
+<7692,75908,18>101: "Wh...What!?"
 <7740,74928,4>Naoya
-<7748,75927,92>102: 「そんなキモイ顔でのぞき込まれたら、そりゃ気分も悪くなるだろう……なんてとても言えない……」
+<7748,75927,92>102: "Anyone would feel worse when such a sickening face is looking at them...but I really shouldn't be saying that..."
 <7772,76020,10>ked_000009
 <7820,75502,2>Kei
-<7828,76031,76>103: 「うわぁん！　なんだと！　俺の顔はキモくなんかないぞ！　ひどいぞいきなり！」
+<7828,76031,76>103: "Hey what!? My face isn't sickening! How can you suddenly say such a horrible thing!?"
 <7860,76108,7>evb000f
 <7908,74928,4>Naoya
-<7916,76116,32>104: 「な、何故俺が考えてた事を！？」
+<7916,76116,32>104: "How...How are you reading my thoughts!?"
 <7964,74928,4>Naoya
-<7972,76149,182>105: 「あ！　しまった！　圭を傷つけないためにもモノローグで言ってたつもりだったのに！　ああ、あれか！　圭があまりに気持ち悪かったんで、心の声が外に漏れだしてしまっていたのかぁ（棒読み）」
+<7972,76149,182>105: "Oh, fuck! I didn't want to hurt you so I meant to monologue that! Uhh how can I explain. Your face was so sickening, that I accidentally said the silent part aloud." (deadpanned)
 <7996,76332,10>ked_000010
 <8044,75502,2>Kei
-<8052,76343,114>106: 「なんだそれ！　俺が気持ちが悪いとかひどいぞ！　訂正しろ！　訂正しろ！　訂正しないと、うわぁぁぁん、コロスぅぅ！」
+<8052,76343,114>106: "What the hell is that! Don't call me sickening! Take it back! Take it back! If you don't take it back...ugh I'll kill you!!"
 <8100,74928,4>Naoya
-<8108,76458,64>107: 「あははははははは抱きつくな！　このキモイ生き物はぁ、コロスぞ」
+<8108,76458,64>107: "Hey hey hey don't hug me! I'm gonna kill you, you disgusting animal."
 <8132,76523,10>ked_000011
 <8180,75502,2>Kei
-<8188,76534,142>108: 「なんだと！　殺されるのはお前だ！　うわぁん！　いちいちむかつく事を言う奴だな！！　抱きついてるんじゃない！　殴りかかってるんだ！　このぉ！」
+<8188,76534,142>108: "What! You're the one who's getting killed! Ah! Everything you say gets on my nerves! I'm not trying to hug you, I'm gonna hit you you moron!"
 <8236,74928,4>Naoya
-<8244,76677,30>109: 「う、うおぉ……ま、待て……」
+<8244,76677,30>109: "W-Wait..."
 <8276,76708,7>sp0010a
 <8308,76716,6>se3356
 <8396,76723,7>ev6000a
 <8444,74928,4>Naoya
-<8452,76731,34>110: 「痛てて……危ないヤツだなぁ……」
+<8452,76731,34>110: "Ow...man this guy's dangerous..."
 <8476,76766,10>ked_000012
 <8524,75502,2>Kei
-<8532,76777,78>111: 「直哉が俺の事を馬鹿にするからだ……人の事をキモイキモイっていいやがって！！」
+<8532,76777,78>111: "It's because you take me for an idiot. Don't call people sickening all the time like that!"
 <8580,74928,4>Naoya
-<8588,76856,22>112: 「だって……さぁ……」
-<8644,76879,16>113: 　彼と目があう。
+<8588,76856,22>112: "But you see..."
+<8644,76879,16>113: Our eyes meet.
 <8692,74928,4>Naoya
-<8700,76896,20>114: 「あはははははは！」
+<8700,76896,20>114: "Ahahaha!"
 <8724,76917,10>ked_000013
 <8772,75502,2>Kei
-<8780,76928,14>115: 「何故笑う！」
+<8780,76928,14>115: "Why are you laughing!?"
 <8828,74928,4>Naoya
-<8836,76943,32>116: 「あはははははははははははは！」
+<8836,76943,32>116: "Ahahahahahahaha!"
 <8868,76976,7>ev6000b
 <8892,76984,10>ked_000014
 <8940,75502,2>Kei
-<8948,76995,48>117: 「うわぁん！　なんだそれ！　もう辛抱たまらん！」
-<9004,77044,13>118: 　しまった。\n
-<9060,77058,66>119: 俺とした事が、なんと自分の感情が抑えきれなくなって笑ってしまった。
+<8948,76995,48>117: "Wh-what the hell is this! I can't take this anymore!"
+<9004,77044,13>118: Shit.\n
+<9060,77058,66>119: Unfortunately for me, I laughed after failing to suppress my feelings.
 <9108,74928,4>Naoya
-<9116,77125,72>120: 「あはははははは！　ま、待て！　これには理由があるんだ！　うはははは！」
+<9116,77125,72>120: "Ahahahaha w-wait! There's a reason for this! Ahahaha"
 <9148,76723,7>ev6000a
 <9172,77198,10>ked_000015
 <9220,75502,2>Kei
-<9228,77209,46>121: 「どんな理由だ！　人の顔を見て笑いやがって！」
+<9228,77209,46>121: "What kind of reason could there be to look at someone's face and laugh!?"
 <9276,74928,4>Naoya
-<9284,77256,46>122: 「あ、あれだ、笑いと恐怖は紙一重と言うだろ？」
+<9284,77256,46>122: "W-well they say that laughter and fear are two sides of the same coin"
 <9308,77303,10>ked_000016
 <9356,75502,2>Kei
-<9364,77314,30>123: 「ど、どういう事だ？　それ？」
+<9364,77314,30>123: "What do you mean?"
 <9412,74928,4>Naoya
-<9420,77345,46>124: 「あ、いやな、お前が襲ってきて、恐怖してだな」
+<9420,77345,46>124: "Uhh, when you came after me, I felt fear you see..."
 <9444,77392,10>ked_000017
 <9492,75502,2>Kei
-<9500,77403,28>125: 「俺が襲ってきて？　恐怖？」
+<9500,77403,28>125: "When I came after you...fear?"
 <9548,74928,4>Naoya
-<9556,77432,49>126: 「ああ、あまりの恐怖で笑ってしまったんだよ……。\n
+<9556,77432,49>126: "Yeah, I laughed out of fear...\n
 <9604,74928,4>Naoya
-<9612,77482,24>127: お前が恐ろしすぎてだな」
+<9612,77482,24>127: you were just too scary."
 <9644,77507,7>ev6000c
 <9668,77515,10>ked_000018
 <9716,75502,2>Kei
-<9724,77526,94>128: 「そ、そうか？　そ、そんなに俺が怖かったのか？　恐ろしかったのか？　そ、そうか？　ごめんなぁ」
-<9780,77621,40>129: 　何　故　か　うれしそうに夏目圭は笑う。
-<9836,77662,52>130: 　“恐怖”したという事実に、彼はご満悦の様であった。
+<9724,77526,94>128: "Ah, really? You were that scared? I was that fearful? Wow, ok, I'm sorry..."
+<9780,77621,40>129: Kei Natsume is happily smiling *for    some    reason*.
+<9836,77662,52>130: He felt exulted in the fact that he had caused "fear."
 <9860,77715,10>ked_000019
 <9908,75502,2>Kei
-<9916,77726,104>131: 「そうだよな。俺みたいな<r おとこぎ>侠気</r>あふれる<r おとこ>男</r>が凄みをきかせたら、そりゃ怖いわな」
+<9916,77726,104>131: "That's right! Anyone would feel scared when threatened by a manly man like me."
 <9964,74928,4>Naoya
-<9972,77831,52>132: 「<r おとこぎ>侠気</r>あふれる<r おとこ>男</r>……」
-<10028,77884,74>133: 　<r じゅうげん>重言</r>を駆使してまで、自らの「オトコ」を強調する夏目圭。
-<10084,77959,52>134: 　俺はそんな彼を少しだけ<r ふびん>不憫</r>に思った。
-<10140,78012,42>135: 　夏目圭という生き物は、女にしかみえない。
-<10196,78055,52>136: 　だが本人はまったくその事実を受け入れようとしない。
-<10252,78108,34>137: 　現実が見えない男なのだ圭は……。
-<10308,78143,29>138: 　そんな彼をみていると……。\n
-<10364,78173,20>139: 悲しすぎて、俺は……
+<9972,77831,52>132: "A manly man..."
+<10028,77884,74>133: Kei Natsume wants to emphasize the MALE part so badly that he said it twice.
+<10084,77959,52>134: I pitied him a little bit.
+<10140,78012,42>135: The animal known as Kei Natsume only looks like a woman.
+<10196,78055,52>136: And yet the person in question does not even attempt to accept this as truth.
+<10252,78108,34>137: Kei is a man who cannot see reality.
+<10308,78143,29>138: When I see him like that...\n
+<10364,78173,20>139: I'm so sad that I...
 <10412,74928,4>Naoya
-<10420,78194,30>140: 「あははははははははははは！」
+<10420,78194,30>140: "Ahahahahaha!"
 <10452,78225,7>ev6000d
 <10476,78233,10>ked_000020
 <10524,75502,2>Kei
-<10532,78244,82>141: 「そんな笑うなよぉ……直哉ぁ、俺はそんな怖くないぞ。直哉には優しいだろ？　いつも」
+<10532,78244,82>141: "Don't laugh like that!! Naoya! I'm not that scary. I'm always nice to you right?"
 <10580,74928,4>Naoya
-<10588,78327,40>142: 「あはははははははははははははははは！」
+<10588,78327,40>142: "Ahahahahahahahahaha!"
 <10612,78368,10>ked_000021
 <10660,75502,2>Kei
-<10668,78379,54>143: 「たしかに、俺って少し強そうだし、実際強いしなぁ……」
+<10668,78379,54>143: "But it's true that I do look pretty strong. Since I am strong after all!"
 <10716,74928,4>Naoya
-<10724,78434,58>144: 「うははははははははははははははははうはははははははは！」
+<10724,78434,58>144: "Uwahahahahahahahahahahauwahahahahahahaha!"
 <10756,76723,7>ev6000a
 <10780,78493,10>ked_000022
 <10828,75502,2>Kei
-<10836,78504,12>145: 「……直哉」
+<10836,78504,12>145: "...Naoya..."
 <10884,74928,4>Naoya
-<10892,78517,66>146: 「わははははははははははははははははははははははははははははは！」
+<10892,78517,66>146: "Wahahahahahahahahahahahahahahahahahahahahaha!"
 <10916,78584,10>ked_000023
 <10964,75502,2>Kei
-<10972,78595,34>147: 「なんかお前……嘘ついてないか？」
+<10972,78595,34>147: "Hey you're...not lying right?"
 <11020,74928,4>Naoya
-<11028,78630,16>148: 「何を根拠に？」
-<11084,78647,63>149: 　何事も<r す>過</r>ぎたるは<r なおおよ>猶及</r>ばざるが如し。\n
-<11140,78711,22>150: やり過ぎてはいけない。
-<11196,78734,30>151: 　俺はいつもの冷静な俺に戻る。
+<11028,78630,16>148: "On what basis are you accusing me?"
+<11084,78647,63>149: More than enough of anything is too much.\n
+<11140,78711,22>150: Take all things in moderation.
+<11196,78734,30>151: I return to my normal, cool self.
 <11244,74928,4>Naoya
-<11252,78765,30>152: 「俺が嘘などつくわけ……ぷっ」
+<11252,78765,30>152: "I would never lie...hmph."
 <11276,78796,10>ked_000024
 <11324,75502,2>Kei
-<11332,78807,62>153: 「なに吹いてるんだよ！　やっぱり直哉は俺をバカにしてるだろ！」
-<11388,77044,13>154: 　しまった。\n
-<11444,78870,34>155: なんかこいつの瞳に吹いてしまった。
+<11332,78807,62>153: "Why that hmph! You're making an idiot of me aren't you?"
+<11388,77044,13>154: Shit.\n
+<11444,78870,34>155: I accidentally hmphed right into his eye.
 <11476,76976,7>ev6000b
 <11500,78905,10>ked_000025
 <11548,75502,2>Kei
-<11556,78916,108>156: 「うわぁん！　コロス！　コロス！　もう本気でコロス！　海よりも深く！　山よりも高く！　空よりも広くコロス！」
+<11556,78916,108>156: "Ahh I'll kill you! I'll kill you! Seriously now I'll kill you! Deeper than the sea! Higher than the mountains! Wider than the sky, I'll kill you!"
 <11604,74928,4>Naoya
-<11612,79025,70>157: 「あははははは！　くすぐったい！　くすぐったいわ！　あはははははは！」
+<11612,79025,70>157: "Ahahahaha! That tickles! It really tickles! Ahahahaha!"
 <11636,79096,10>ked_000026
 <11684,75502,2>Kei
-<11692,79107,46>158: 「何がくすぐったいだぁ！　殴ってるんだぞぉ！」
+<11692,79107,46>158: "What tickles!? I'm hitting you!"
 <11740,74928,4>Naoya
-<11748,79154,52>159: 「あははははははははは！　やめれ！　やめてくれぇ！」
+<11748,79154,52>159: "Ahahahaha! Stop! Stop ahah!"
 <11828,79207,6>se2192
 <11852,79214,10>ked_000027
 <11964,75502,2>Kei
-<11972,79225,12>160: 「にゃあ！」
+<11972,79225,12>160: "Nyaa!"
 <12060,79238,7>ev6000e
 <12108,74928,4>Naoya
-<12116,79246,38>161: 「はぁ、はぁ、笑い死ぬかと思った……」
+<12116,79246,38>161: "Haa..haa..I thought I would die of laughter..."
 <12140,79285,10>ked_000028
 <12188,75502,2>Kei
-<12196,79296,46>162: 「直哉……痛いぞ。頭がじんじんするんだぞ……」
+<12196,79296,46>162: Naoya...that hurts. My head is throbbing...
 <12244,74928,4>Naoya
-<12252,79343,36>163: 「ああ……そうだな。痛くしたからな」
+<12252,79343,36>163: "That's right. That's because I made it hurt."
 <12276,79380,10>ked_000029
 <12324,75502,2>Kei
-<12332,79391,26>164: 「なんで叩く。痛いぞ……」
+<12332,79391,26>164: "Why did you hit me. It hurts..."
 <12380,74928,4>Naoya
-<12388,79418,38>165: 「いや、先に攻撃してきたのはお前だし」
+<12388,79418,38>165: "I mean, you're the one who attacked me first."
 <12420,76723,7>ev6000a
 <12444,79457,10>ked_000030
 <12492,75502,2>Kei
-<12500,79468,54>166: 「お、俺の攻撃は愛があるから！　い、痛くないんだぞ！」
+<12500,79468,54>166: "But my attacks are imbued with love! They don't hurt!"
 <12548,74928,4>Naoya
-<12556,79523,48>167: 「あはははははは、非力だからだろ。このカマ野郎」
+<12556,79523,48>167: "Ahahaha that's because you're weak, you transvestite."
 <12588,76976,7>ev6000b
 <12612,79572,10>ked_000031
 <12660,75502,2>Kei
-<12668,79583,98>168: 「うわぁん！　ひどいぞ！　カマとかひどい！　この野郎！　すね毛生えてないからって馬鹿にするなぁ！」
+<12668,79583,98>168: "Uwaah! That's horrible! Calling me a transvestite! Making me for an idiot just because I don't have leg hair!"
 <12716,74928,4>Naoya
-<12724,79682,28>169: 「そ、そんな事言ってな……」
+<12724,79682,28>169: "I...didn't say that..."
 <12812,79711,6>map003
 <12844,76716,6>se3356
 <12956,74928,4>Naoya
-<12964,79718,10>170: 「わぁ！」
+<12964,79718,10>170: "Wah!"
 <13020,79729,10>ked_000032
 <13068,75502,2>Kei
-<13076,79740,30>171: 「はぁ、はぁ、はぁ、ふぅ……」
+<13076,79740,30>171: "Haa..haaa..haa..huu..."
 <13124,74928,4>Naoya
-<13132,79771,24>172: 「はぁ、はぁ、はぁ……」
+<13132,79771,24>172: "Haa..haa..haa..."
 <13212,79796,7>sp0008a
 <13252,71558,6>bgm021
 <13356,74928,4>Naoya
-<13364,79804,8>173: 「……」
-<13420,79813,40>174: 　まだ風にほんのり寒さが残る。四月の昼。
-<13476,79854,52>175: 　舞い散る桜の下で、俺と圭はごろりと横になっていた。
-<13532,79907,14>176: 　空が見えた。
-<13588,79922,20>177: 　そして桜が見えた。
+<13364,79804,8>173: "..."
+<13420,79813,40>174: It was an April afternoon. A faint chill was still left in the wind.
+<13476,79854,52>175: Kei and I were laying down under the fluttering cherry blossoms.
+<13532,79907,14>176: We could see the sky.
+<13588,79922,20>177: And we could see the cherry blossoms.
 <13620,79943,8>kazenari
-<13676,72300,12>178: 　風が吹く。
-<13732,79952,26>179: 　桜の花が散らされていく。
-<13788,79979,34>180: 　視界を花びらが埋め尽くす様に……
-<13844,80014,10>181: 　そして、
-<13900,80025,14>182: 　雲が流れる。
-<13956,80040,16>183: 　ゆっくりと……
-<14044,80057,32>184: 　大きな空に雲が流れていく……。
+<13676,72300,12>178: The wind blows.
+<13732,79952,26>179: Cherry blossom petals are scattered.
+<13788,79979,34>180: My eyesight is filled with petals...
+<13844,80014,10>181: and then...
+<13900,80025,14>182: the clouds flow.
+<13956,80040,16>183: Softly...
+<14044,80057,32>184: The clouds flow by in the open sky...
 <14076,80090,7>evb001a
 <14124,74928,4>Naoya
-<14132,80098,34>185: 「何でもないんだよ……何でも……」
+<14132,80098,34>185: "It's nothing...nothing..."
 <14156,80133,10>ked_000033
 <14204,75502,2>Kei
-<14212,78504,12>186: 「……直哉」
+<14212,78504,12>186: "Naoya..."
 <14244,80144,7>evb001b
 <14292,74928,4>Naoya
-<14300,80152,42>187: 「そうなんだ……何でもない事なんだよ……」
+<14300,80152,42>187: "That's right...it's nothing at all..."
 <14324,80195,10>ked_000034
 <14372,75502,2>Kei
-<14380,79804,8>188: 「……」
-<14436,80206,26>189: 　無言で圭は俺を見つめる。
+<14380,79804,8>188: "..."
+<14436,80206,26>189: Kei watches me silently.
 <14484,74928,4>Naoya
-<14492,80233,36>190: 「だから、そういうのやめてくれ……」
+<14492,80233,36>190: "So please, stop that..."
 <14540,74928,4>Naoya
-<14548,80270,58>191: 「湿っぽいのは得意じゃない。そのぐらい知っているだろ……」
+<14548,80270,58>191: "I don't know how to deal with people around me being gloomy. You should know at least that much..."
 <14572,80329,10>ked_000035
 <14620,75502,2>Kei
-<14628,80340,52>192: 「……分かってる。分かってるつもりなんだけどさ……」
+<14628,80340,52>192: "...I know. I tried to keep that in mind but..."
 <14676,74928,4>Naoya
-<14684,80393,50>193: 「分かってるなら、その不景気な顔はやめてくれ……」
+<14684,80393,50>193: "If you know, don't make such a recessed face..."
 <14708,80444,10>ked_000036
 <14756,75502,2>Kei
-<14764,80455,40>194: 「不景気な顔って、景気関係ないだろ……」
+<14764,80455,40>194: "Recessed face? What does economics have to do with this...?"
 <14812,74928,4>Naoya
-<14820,80496,82>195: 「そうかもな、景気の振れ幅でお前の顔がおもしろおかしくなるわけじゃないもんな……」
+<14820,80496,82>195: "Hmm, indeed, I don't think your face becomes any more comical in response to economic trends..."
 <14852,80579,7>evb001c
 <14876,80587,10>ked_000037
 <14924,75502,2>Kei
-<14932,80598,66>196: 「って！　その前に、俺の顔はそんなおもしろおかしくなんかないぞ！」
+<14932,80598,66>196: "Hey! My face isn't comical at all in the first place!"
 <14964,80665,7>evb001d
 <15012,74928,4>Naoya
-<15020,80673,12>197: 「そうか？」
+<15020,80673,12>197: "Really?"
 <15044,80686,10>ked_000038
 <15092,75502,2>Kei
-<15100,80697,54>198: 「な　ぜ　不　思　議　そ　う　な　顔　を　す　る　！」
+<15100,80697,54>198: "Why    are    you    making    such    a    strange    face!"
 <15148,74928,4>Naoya
-<15156,80752,46>199: 「だ　っ　て　不　思　議　じ　ゃ　な　い　？」
+<15156,80752,46>199: "Isn't    it    strange    after    all?"
 <15180,80799,10>ked_000039
 <15228,75502,2>Kei
-<15236,80810,24>200: 「全然不思議じゃねぇ！」
+<15236,80810,24>200: "Nothing is strange!!"
 <15284,74928,4>Naoya
-<15292,80835,60>201: 「なら、なぜお前はそんな顔がおもしろおかしく変化するのだ？」
+<15292,80835,60>201: "Then why do you contort your face in such a comical way?"
 <15316,80896,10>ked_000040
 <15364,75502,2>Kei
-<15372,80907,50>202: 「俺の顔はおもしろおかしくなんか変化なぞしない！」
+<15372,80907,50>202: "My face isn't contorting in a comical way at all!"
 <15420,74928,4>Naoya
-<15428,80673,12>203: 「そうか？」
+<15428,80673,12>203: "Really?"
 <15452,80958,10>ked_000041
 <15500,75502,2>Kei
-<15508,80969,50>204: 「な　ぜ　会　話　を　ル　ー　プ　さ　せ　る　！」
+<15508,80969,50>204: "Why    are    you    making    our    conversation    loop!?"
 <15556,74928,4>Naoya
-<15564,81020,50>205: 「だ　っ　て　不　思　議　な　の　だ　も　の　？」
+<15564,81020,50>205: "It's    strange    after    all    ."
 <15588,81071,10>ked_000042
 <15636,75502,2>Kei
-<15644,81082,80>206: 「不思議じゃねぇ！　もうこの会話終わり！　そんな事言う直哉はダメなんだからな！」
+<15644,81082,80>206: "It's not strange! This conversation is over! And you're a terrible person for saying these things!"
 <15676,81163,7>evb001e
-<15732,81171,34>207: 　圭は不機嫌そうにそっぽを向いた。
-<15788,81206,44>208: 　俺は苦笑いしてから、そのまま空を見上げた。
-<15844,81251,14>209: 　春の空を……
-<15900,81266,26>210: 　桜に包まれていた春の空。
+<15732,81171,34>207: Kei looks the other way, as if upset.
+<15788,81206,44>208: I laugh bitterly, and just look up at the sky.
+<15844,81251,14>209: The spring sky...
+<15900,81266,26>210: The spring sky enveloped in cherry blossoms.
 <15948,74928,4>Naoya
-<15956,81293,30>211: 「それにしてもあれだな……圭」
+<15956,81293,30>211: "But still, Kei..."
 <15988,81324,7>evb001f
 <16012,81332,10>ked_000043
 <16060,75502,2>Kei
-<16068,81343,12>212: 「なんだ？」
+<16068,81343,12>212: "What?"
 <16116,74928,4>Naoya
-<16124,81356,18>213: 「桜が綺麗だ……」
+<16124,81356,18>213: "The cherry blossoms are beautiful..."
 <16148,81375,10>ked_000044
 <16196,75502,2>Kei
-<16204,81386,8>214: 「桜？」
+<16204,81386,8>214: "Cherry blossoms?"
 <16252,74928,4>Naoya
-<16260,81395,28>215: 「ああ、そうだ……桜だ……」
-<16316,81424,94>216: 　突き抜ける様な青の中を、咲き散る<r うすくれない>薄紅</r>を、俺は見つめながら、ぽつりと呟く。
-<16372,81519,32>217: 　その視線の先を圭も追いかける。
-<16428,81552,42>218: 　桜の花びらが風に舞って空高く吹き荒れる。
+<16260,81395,28>215: "Yeah...the cherry blossoms..."
+<16316,81424,94>216: I murmured while watching the pale crimson scatter as if penetrating the blue.
+<16372,81519,32>217: Kei follows my eyes as well.
+<16428,81552,42>218: The cherry blossom petals dance in the wind and are blown high into the sky.
 <16452,81595,10>ked_000045
 <16500,75502,2>Kei
-<16508,81606,40>219: 「ああ、今年の桜は最高にきれいだな……」
+<16508,81606,40>219: "Ah, this year's cherry blossoms are exceptionally beautiful..."
 <16556,74928,4>Naoya
-<16564,81647,28>220: 「今年の桜は、最高に……か」
-<16620,81676,34>221: 　毎年同じ様に咲く様に思われた桜。
-<16676,81711,62>222: 　たしかに圭の言うとおり、今年の桜は俺にも最高に美しく思えた。
-<16732,81774,30>223: 　圭にも、美しく見えるこの桜。
-<16788,81805,70>224: 　だったら、圭にも木箱に詰められた親父の姿は醜くうつったのであろうか？
-<16844,81876,16>225: 　それとも――。
+<16564,81647,28>220: "This year's cherry blossoms...exceptional..."
+<16620,81676,34>221: Cherry blossoms are thought to bloom in the same way every year.
+<16676,81711,62>222: But indeed, as Kei says, this year's cherry blossoms looked exceptionally beautiful.
+<16732,81774,30>223: These cherry blossoms look beautiful to Kei as well.
+<16788,81805,70>224: If that's the case, then I wonder if my father's figure, stuffed in that coffin, looked hideous to him too.
+<16844,81876,16>225: Or...
 <16892,74928,4>Naoya
-<16900,81893,28>226: 「芸術は自然を模倣する……」
+<16900,81893,28>226: "Art imitates nature..."
 <16948,74928,4>Naoya
-<16956,81922,16>227: 「あるいは……」
+<16956,81922,16>227: "But it could be..."
 <17004,74928,4>Naoya
-<17012,81939,28>228: 「自然は芸術を模倣する……」
+<17012,81939,28>228: "That nature imitates art..."
 <17036,81968,10>ked_000046
 <17084,75502,2>Kei
-<17092,81979,40>229: 「何それ？　まったく逆の意味じゃない？」
+<17092,81979,40>229: "Huh? Don't those mean opposite things?"
 <17140,74928,4>Naoya
-<17148,82020,16>230: 「ああ、そうだ」
+<17148,82020,16>230: "Ah, you're right."
 <17172,82037,10>ked_000047
 <17220,75502,2>Kei
-<17228,82048,20>231: 「どういう事なの？」
+<17228,82048,20>231: "What are you talking about?"
 <17276,74928,4>Naoya
-<17284,82069,36>232: 「さぁな。まぁ、どうでも良い事だよ」
+<17284,82069,36>232: "I dunno. But it doesn't matter anyway."
 <17412,73127,7>sp0005a
 <17444,73135,7>sp0005b
 <17476,73143,7>sp0005c
-<17580,82106,28>233: 　『横たわる櫻』を描いた男。
-<17636,82135,50>234: 　俺の父親は「世界的に名の知れた芸術家」であった。
-<17692,82186,29>235: 　世界的に名の知れた芸術家。\n
-<17748,82216,48>236: 今の時代、こんな胡散臭い響きが他にあるだろうか？
-<17804,82265,14>237: 　あり得ない。
-<17860,82280,50>238: 　だから彼は、胡散臭い芸術家としても知られていた。
-<17916,82331,42>239: 　起業家、虚業家、ペテン師、そして芸術家。
-<17972,82374,42>240: 　草薙健一郎に対する呼び名は複数に及んだ。
-<18028,82417,33>241: 　彼は世界的有名人でもあったが、\n
-<18084,82451,26>242: 胡散臭さの象徴でもあった。
-<18140,82478,14>243: 　だがしかし、
-<18196,82493,10>244: 　誰もが、
-<18252,82504,32>245: 　あの絵を前にした時だけ違った。
-<18308,82537,44>246: 　あの絵を前にしたあらゆる人間がこう思った。
-<18364,82582,26>247: 「この美しさは本物である」
-<18420,82609,24>248: 「この感動は本物である」
-<18476,82634,10>249: 　と……。
-<18532,82645,20>250: 　絵画『横たわる櫻』
-<18588,82666,58>251: 　彼を悪く言う者は多いが、あの絵を悪く言う者は多くはない。
-<18644,82725,45>252: 　『横たわる櫻』とはそういう作品であったし、\n
-<18700,82771,44>253: 草薙健一郎という男はそういう芸術家であった。
+<17580,82106,28>233: The man who drew "Lying Cherry Blossom."
+<17636,82135,50>234: My father was known as a "world-renowned artist".
+<17692,82186,29>235: "World-renowned artist".\n
+<17748,82216,48>236: In this day and age, could anything sound more suspicious?
+<17804,82265,14>237: Impossible.
+<17860,82280,50>238: That's why people also knew him as a "suspicious artist."
+<17916,82331,42>239: Entrepreneur, snake oil salesman, charlatan, and also artist.
+<17972,82374,42>240: Ken'ichiro Kusanagi was known by many names.
+<18028,82417,33>241: While he was indeed known worldwide,\n
+<18084,82451,26>242: he also left a suspicious impression.
+<18140,82478,14>243: That being said,
+<18196,82493,10>244: anyone, however,
+<18252,82504,32>245: was different when in front of that painting.
+<18308,82537,44>246: Any human sat in front of that painting would think:
+<18364,82582,26>247: "This beauty is real."
+<18420,82609,24>248: or...
+<18476,82634,10>249: "These emotions are real."
+<18532,82645,20>250: The painting: "Lying Cherry Blossom"
+<18588,82666,58>251: Many thought badly of him, but few thought badly of that painting.
+<18644,82725,45>252: After all, "Lying Cherry Blossom" was a work of art,\n
+<18700,82771,44>253: and the man known as Ken'ichiro Kusanagi was an artist.
 <18828,72390,7>sp0004a
-<18932,82816,54>254: 　そんな親父との関係は、彼の死により決定的に絶たれた。
-<18988,82871,78>255: 　彼との最後の繋がりは、振り込まれた一生生活に困らない額の金が記入された通帳。
-<19044,82950,20>256: 　彼が死ぬ数ヶ月前。
-<19100,82971,28>257: 　俺はその通帳を見せられた。
-<19156,83000,16>258: 　その時思った。
-<19212,83017,22>259: 　ああ……そうか……。
-<19268,83040,28>260: 　これで一生遊んで暮らせる。
-<19324,83069,26>261: 　あの男は金持ちだもんな。
-<19380,83096,48>262: 　だから、遺産相続したら今度は俺が金持ちになる。
-<19436,83145,26>263: 　誰もが憧れる夢の生活だ。
-<19492,83172,56>264: 　学校を卒業した後も、就活とかでヒイヒイ言わなくて良い。
-<19548,83229,13>265: 　世間では、\n
-<19604,83243,25>266: 就職氷河時代が日常です！\n
-<19660,83269,22>267: 面接逝ったらジエンド！
-<19716,83292,44>268: 　と言われるぐらいに、就職が出来ないという。
-<19772,83337,52>269: 　社会に出てもつらいが、出させてもくれないのが実情。
-<19828,83390,46>270: 　そんな世の中にあって俺は働かなくて良いのだ。
-<19884,83437,26>271: 　労働から解放されたのだ。
-<19940,83464,28>272: 　これは勝ち組というやつだ。
-<19996,83493,26>273: 　格好良く言うと高等遊民！
-<20052,83520,22>274: 　まさに毎日が日曜日。
-<20108,83543,18>275: 　素晴らしき日々。
-<20164,83562,18>276: 　ハロー　セカイ。
-<20220,83581,18>277: 　わーい。わーい。
-<20276,83600,14>278: 　そう思った。
-<20332,83615,64>279: 　たしかに<r ・>あ</r><r ・>の</r><r ・>時</r>はそう思った……。
-<20388,83680,46>280: 　だけど、今ではそういう感情も起こらなかった。
-<20444,83727,42>281: 　すべての風景が、俺には平べったく見える。
-<20500,83770,18>282: 　フラットに……。
+<18932,82816,54>254: My relationship with such a father had been cut off long before his death.
+<18988,82871,78>255: My last connection with him was a bank account containing enough money for a lifetime.
+<19044,82950,20>256: A few months before he had died...
+<19100,82971,28>257: I was shown that account,
+<19156,83000,16>258: and then I thought:
+<19212,83017,22>259: Ah, I see.
+<19268,83040,28>260: I can just enjoy the rest of my life.
+<19324,83069,26>261: That man is rich after all.
+<19380,83096,48>262: Therefore I'll inherit his money, and then I'll be rich.
+<19436,83145,26>263: The dream life after which we all yearn.
+<19492,83172,56>264: Even after graduating high school, I won't have to tire myself out with job searching.
+<19548,83229,13>265: Many people say:\n
+<19604,83243,25>266: We're in an employment ice age!\n
+<19660,83269,22>267: If you go to a job interview it's game over!
+<19716,83292,44>268: It's so hard to find a job that I'm told these things.
+<19772,83337,52>269: Being a productive member of society is rough, but as it turns out I don't have to be productive. 
+<19828,83390,46>270: I don't have to work in such a world.
+<19884,83437,26>271: I have been freed from my labor.
+<19940,83464,28>272: This is what it means to be on the winning team.
+<19996,83493,26>273: In other words, a man of pleasure!
+<20052,83520,22>274: Like every day is Sunday.
+<20108,83543,18>275: Wonderful Everyday.
+<20164,83562,18>276: Hello World.
+<20220,83581,18>277: Hurrah! Hurray!
+<20276,83600,14>278: That's how I thought.
+<20332,83615,64>279: Indeed, I thought those things "back then..."
+<20388,83680,46>280: But none of those emotions rise up now.
+<20444,83727,42>281: All landscapes just look flat to me.
+<20500,83770,18>282: Flat...
 <20580,83789,8>evb001_n
 <20676,74928,4>Naoya
-<20684,83798,18>283: 「何でだろう……」
+<20684,83798,18>283: "I wonder why..."
 <20732,74928,4>Naoya
-<20740,83817,38>284: 「何でこんなに平べったいのだろう……」
+<20740,83817,38>284: "I wonder, why does it look so flat...?"
 <20764,83856,10>ked_000048
 <20812,75502,2>Kei
-<20820,75087,12>285: 「直哉……」
+<20820,75087,12>285: "Naoya..."
 <20852,80090,7>evb001a
-<20908,83867,48>286: 　そんな俺の姿を見て、圭が心配そうにのぞき込む。
-<20964,83916,40>287: 　俺は苦笑して、心配ない事を圭に伝える。
-<21020,83957,28>288: 　俺の感情が平べったい理由。
-<21076,83986,26>289: 　すべてが遠く感じる理由。
-<21132,84013,21>290: 　たぶん、それは……\n
-<21188,84035,18>291: あれが原因だろう。
-<21244,84054,24>292: 　俺にはそう思えた……。
-<21460,84079,46>293: 　あれは、俺が最後に通帳を見せられた時の事だ。
-<21516,84126,40>294: 　遺産管財人とやらの前で俺はこう言った。
+<20908,83867,48>286: Seeing me in this state, Kei worriedly looks over.
+<20964,83916,40>287: I laugh bitterly and tell Kei not to worry.
+<21020,83957,28>288: The reason my emotions are flat.
+<21076,83986,26>289: The reason why everything feels far.
+<21132,84013,21>290: It's probably...\n
+<21188,84035,18>291: because of what happened.
+<21244,84054,24>292: Or so it seemed to me...
+<21460,84079,46>293: That was the last time that I was shown the account.
+<21516,84126,40>294: I said this in front of some guy who called himself "the executor of the estate":
 <21676,84167,7>ev7001c
 <21716,84175,6>bgm027
 <21772,74928,4>Naoya
-<21780,84182,34>295: 「俺はこの金は受け取れません……」
+<21780,84182,34>295: "I can't accept this money."
 <21828,74928,4>Naoya
-<21836,84217,68>296: 「この金を受け取れるほど、草薙健一郎氏と俺には関係がありません……」
+<21836,84217,68>296: "I don't have a relationship with Ken'ichiro Kusanagi which would warrant me taking this money."
 <21884,84286,8>Concerned Party A
-<21892,84295,20>297: 「関係ないって……」
+<21892,84295,20>297: "No relationship...?"
 <21940,84316,8>Concerned Party B
-<21948,84325,62>298: 「直哉くんと草薙氏はたしかに親子じゃないか…それをまた何故？」
-<22004,84388,48>299: 　その場にいる全員が驚いた顔で俺を見つめていた。
-<22060,84437,10>300: 　当然だ。
-<22116,84448,88>301: 　唯一の血縁である俺が、世界的な芸術家の遺産のすべてを受け取らないと言ったのだから……。
-<22172,84537,58>302: 　ただ一人、目の前の男だけが鋭い目つきで俺を見つめていた。
+<21948,84325,62>298: "Are you not Mr. Kusanagi's son? Why...?"
+<22004,84388,48>299: Everyone stared at me with a shocked expression.
+<22060,84437,10>300: It's obvious.
+<22116,84448,88>301: I, the sole blood relative of a world-renowned artist, declared that I could not accept this inheritance.
+<22172,84537,58>302: One man, only the man in front of me, stared at me with a sharp expression.
 <22196,84596,10>frd_000001
 <22244,74896,6>???
-<22252,84607,10>303: 「関係？」
-<22308,84618,42>304: 　男は草薙健一郎の管財人だと名乗っていた。
-<22364,84661,48>305: 　もちろん俺はこの男とまったく面識が無い設定だ。
-<22420,84710,58>306: 　実際、健一郎とどんな関係なのかすら良く理解してなかった。
+<22252,84607,10>303: "No relationship?"
+<22308,84618,42>304: That man claimed to be the executor of Ken'ichiro Kusanagi's estate.
+<22364,84661,48>305: Of course, I couldn’t have ever met him before.
+<22420,84710,58>306: And actually, I didn't even really understand his connection with Ken'ichiro.
 <22444,84769,10>frd_000002
 <22492,84780,6>Executor
-<22500,84787,34>307: 「関係ないとはどういう事ですか？」
+<22500,84787,34>307: "What do you mean by 'no relationship?'"
 <22548,74928,4>Naoya
-<22556,84822,58>308: 「草薙健一郎氏と俺は……、赤の他人だと言ってるんです……」
+<22556,84822,58>308: "I'm saying that...Ken'ichiro Kusanagi and I are complete strangers"
 <22580,84881,10>frd_000003
 <22628,84780,6>Executor
-<22636,84892,14>309: 「赤の他人？」
+<22636,84892,14>309: "Complete strangers?"
 <22684,74928,4>Naoya
-<22692,84907,40>310: 「ああ、だから俺はこの金を受け取れない」
-<22748,84948,22>311: 　その場がざわついた。
-<22804,84971,52>312: 　そこにいるすべての人間が動揺しているのが分かった。
-<22860,85024,32>313: 　俺はそれを見て、うつむき……。
-<22916,85057,22>314: 　そしてほくそ笑んだ。
-<22972,85080,18>315: 　そうだよな……。
-<23028,85099,30>316: 　十数億の遺産を受け取らない。
-<23084,85130,42>317: 　“俺と父とはそんな関係ではないから……”
-<23140,85173,32>318: 　そんな理由で……受け取らない。
-<23196,85206,19>319: 　大芸術家の息子。\n
-<23252,85226,10>320: 草薙直哉。
-<23308,85237,12>321: 　つまり俺。
-<23364,85250,16>322: 　格好イイ……。
-<23420,85267,24>323: 　今の俺は格好イイ……。
-<23476,85292,36>324: 　誰だってこんな自分に憧れるだろう。
-<23532,85329,24>325: 「金で汚れぬ高潔な精神」
+<22692,84907,40>310: "Yeah, that's why I can't accept this money."
+<22748,84948,22>311: People started whispering.
+<22804,84971,52>312: I understood that everyone there was trembling.
+<22860,85024,32>313: I saw that...and stared at the ground.
+<22916,85057,22>314: And then I laughed to myself.
+<22972,85080,18>315: That's right...
+<23028,85099,30>316: I won't accept this multi-million dollar inheritance.
+<23084,85130,42>317: "Since I don't have any sort of relationship with my father."
+<23140,85173,32>318: For that reason...I won't accept it.
+<23196,85206,19>319: The son of a famous artist.\n
+<23252,85226,10>320: Naoya Kusanagi.
+<23308,85237,12>321: In other words, me.
+<23364,85250,16>322: I'm so badass...
+<23420,85267,24>323: I'm so badass right now...
+<23476,85292,36>324: Anyone would want to be me.
+<23532,85329,24>325: "A spirit of integrity, untarnished by money."
 <23588,85354,24>326: 「幸せは金では買えない」
 <23644,85379,41>327: 　彼らにそう宣言するかのごとき俺の姿は、\n
 <23700,85421,30>328: 物語で言えばクライマックスだ。
