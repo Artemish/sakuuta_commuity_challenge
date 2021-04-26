@@ -11,3 +11,7 @@ Participants:
 5. @superange128 (H-scene)
 6. @kayi___
 7. 
+
+# What you need to do:
+
+Open `translation.csv` in some spreadsheet software, locate your 1000 lines, and put your English translation into the second column.
