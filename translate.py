@@ -231,7 +231,7 @@ def create_translation_scripts():
                         jp_line = m.group(2)
                         if jp_line not in name_dict.keys() and '#FFFFFF' not in jp_line and '6sakura' not in jp_line:  # TODO: Fix
                             check_jp_line, new_eng_line = translation[idx]
-                            new_eng_line = str(idx) + new_eng_line  # For debugging
+                            new_eng_line = '{}: {}'.format(str(idx + 1), new_eng_line)  # For debugging
                             idx += 1
                             try:
                                 assert jp_line == check_jp_line
