@@ -74,6 +74,8 @@ name_dict = {
     '女弁護士': 'Female Lawyer',
     '女子校生': 'Schoolgirl',
     '女子校生達': 'Schoolgirls',
+    '女子一同': 'All of the Girls',
+    '男子一同': 'All of the Boys',
     '教師Ａ': 'Teacher A',
     '教師Ｂ': 'Teacher B',
     '客Ａ': 'Customer A',
@@ -155,19 +157,18 @@ def create_translation_csv(outname=''):
             csvwriter.writerow([line, line, fname])
 
 def create_translation_scripts():
-    translation = {}
+    translation = []
     with open('translation.csv', 'r') as csvfile:
         csvreader = csv.reader(csvfile)
         for row in csvreader:
-            translation[row[0]] = row[1]
+            translation.append((row[0], row[1]))
 
     fnames = get_fnames()
     fnames = sorted(fnames, key=sort_func)
     en_files = []
+    idx = 0
     for fname in fnames:
         outname = os.path.join('txt_scripts_en', fname.split('/')[1].split('.')[0] + '.txt')
-        print(fname)
-        print(outname)
         with open(outname, 'w') as en_f:
             with open(fname, 'r') as jp_f:
                 jp_scriptline = jp_f.readline()
@@ -191,7 +192,15 @@ def create_translation_scripts():
                     if m is not None:
                         jp_line = m.group(2)
                         if jp_line not in name_dict.keys() and '#FFFFFF' not in jp_line:  # TODO: Fix
-                            eng_line = '{}{}\n'.format(m.group(1), translation[m.group(2)])
+                            check_jp_line, new_eng_line = translation[idx]
+                            idx += 1
+                            try:
+                                assert jp_line == check_jp_line
+                            except:
+                                print(check_jp_line)
+                                print(jp_line)
+                                1/0
+                            eng_line = '{}{}\n'.format(m.group(1), new_eng_line)
                             en_f.write(eng_line)
                         if jp_line in name_dict.keys():
                             eng_line = '{}{}\n'.format(m.group(1), name_dict[m.group(2)])
