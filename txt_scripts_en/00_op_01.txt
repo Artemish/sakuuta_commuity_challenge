@@ -554,147 +554,147 @@
 <23420,85267,24>323: I'm so badass right now...
 <23476,85292,36>324: Anyone would want to be me.
 <23532,85329,24>325: "A spirit of integrity, untarnished by money."
-<23588,85354,24>326: 「幸せは金では買えない」
-<23644,85379,41>327: 　彼らにそう宣言するかのごとき俺の姿は、\n
-<23700,85421,30>328: 物語で言えばクライマックスだ。
-<23756,85452,44>329: 　俺の精神は少し高揚していたのかもしれない。
-<23812,85497,32>330: 　言い訳程度に言わせてもらおう。
-<23868,85530,22>331: 　ほんの出来心だった。
-<23924,85553,35>332: 　やってみたら格好いいかなぁ……。\n
-<23980,85589,36>333: ぐらいのノリであったのかもしれない。
-<24036,85626,88>334: 　それに、そこは日本人の美しさというか、最初はとりあえず断っておく的な感じもあるだろう。
-<24092,85715,26>335: 　だって十数億の遺産だし。
-<24148,85742,34>336: 　あんまり仲良くない父親の金だし。
-<24204,85777,40>337: 　ここにいる人達も知らない人ばかりだし、
-<24260,85818,34>338: 　とりあえず断っておくのも有りだ。
-<24316,85853,38>339: 　有りか無しかで言ったら、有りだろう。
-<24372,85892,28>340: （なにを仰いますかかカッ！）
-<24428,85921,42>341: （いやいや、そんな事言わず、どうしても！）
-<24484,85964,38>342: （これはあなた様がお受け取り下さい！）
-<24540,86003,76>343: （世界的な芸術家である草薙健一郎が残した遺産には、多くの芸術作品もあります）
-<24596,86080,58>344: （これは唯一の血族である直哉様が受け取るべきものなのです）
-<24652,86139,24>345: （うーん、そうですか？）
-<24708,86164,42>346: （そうかなぁ……。そうかもしれませんなぁ）
-<24764,86207,48>347: （そこまで言われたら、まぁ、仕方ないですかねぇ）
-<24820,86256,52>348: （たしかに父とは血もつながっていたわけですしぃ……）
-<24876,86309,58>349: （皆様がそこまで言うのでしたらお受け取りしましょうか……）
-<24932,86368,10>350: 　これだ！
-<24988,86379,44>351: 　これがごく一般的な日本人の作法ではないか？
-<25044,86424,16>352: 　一度目は断る。
-<25100,86441,32>353: 　それでも相手は引き下がらない。
-<25156,86474,36>354: 　是非、受け取ってくれと言い続ける。
-<25212,86511,29>355: 　頃合いの良いタイミングで、\n
-<25268,86541,42>356: “それでは”という事でありがたく頂戴する。
-<25324,86584,50>357: 　それが日本的な美意識というものではないだろうか？
-<25380,86635,16>358: 　にも関わらず。
+<23588,85354,24>326: "Money can't buy happiness"
+<23644,85379,41>327: If this were some sort of story,\n
+<23700,85421,30>328: my announcement would have been the climax.
+<23756,85452,44>329: Maybe I got myself too worked up.
+<23812,85497,32>330: Please allow me to make an excuse.
+<23868,85530,22>331: You could say it was a minor whim.
+<23924,85553,35>332: "If I did it, it would be so cool"\n
+<23980,85589,36>333: I was feeling something to that effect.
+<24036,85626,88>334: More importantly, and perhaps this is the beauty of the Japanese people, but naturally I think one should refuse at first.
+<24092,85715,26>335: It is, after all, a multi-million dollar inheritance.
+<24148,85742,34>336: And it is, after all, money from a father I didn't know well.
+<24204,85777,40>337: And I don't, after all, know who these people are.
+<24260,85818,34>338: For now I think I can refuse.
+<24316,85853,38>339: Between "can refuse" and "can't refuse" I think this leans towards "can refuse."
+<24372,85892,28>340: (Sir what are you saying!)
+<24428,85921,42>341: (No no sir, you must!)
+<24484,85964,38>342: (Please sir, take it!)
+<24540,86003,76>343: (The inheritance left behind by world-renowned artist Ken'ichiro Kusanagi also contains many artistic works!)
+<24596,86080,58>344: (Mr. Naoya, you should take them, as the sole blood relative!)
+<24652,86139,24>345: (Hmmm you think so?)
+<24708,86164,42>346: (Well...now that you mention it...)
+<24764,86207,48>347: (If you really insist, I suppose I must)
+<24820,86256,52>348: (I suppose we are connected by blood...)
+<24876,86309,58>349: (If everyone's going to be that way I guess I have to take it...)
+<24932,86368,10>350: Just like this!
+<24988,86379,44>351: Is this not the most normal way for the Japanese people?
+<25044,86424,16>352: First you refuse.
+<25100,86441,32>353: But the others don't back off.
+<25156,86474,36>354: They insist, please take it.
+<25212,86511,29>355: And then at just the right moment...\n
+<25268,86541,42>356: You say "in that case..." and receive it with gratitude.
+<25324,86584,50>357: Is this not the beautiful Japanese mindset?
+<25380,86635,16>358: But then...
 <25444,86652,10>frd_000004
 <25492,84780,6>Executor
-<25500,86663,16>359: 「分かりました」
+<25500,86663,16>359: "Understood."
 <25540,86680,6>bgm016
-<25604,86687,42>360: 　管財人は青い目をキラっキラさせて頷いた。
-<25660,86730,20>361: 　ヤツは外人だった。
-<25716,86751,30>362: 　名はマーティ・フリッドマン。
-<25772,86782,51>363: 　毛唐なんぞに日本の美しき作法など分からなかった。\n
-<25828,86834,18>364: 教えたとしてもだ！
-<25884,86853,19>365: 　この白ブタ野郎。\n
-<25940,86873,40>366: フリッドマンは痩せていて格好いいが……。
-<25996,86914,74>367: 　ヤツは俺の一言を聞くやいなや、てきぱきと遺産放棄の書類を作成してくれた。
-<26052,86989,12>368: 　そして……
+<25604,86687,42>360: The executor nodded with a twinkle in his blue eyes.
+<25660,86730,20>361: He was a foreigner.
+<25716,86751,30>362: His name was Marty Friedman.
+<25772,86782,51>363: These barbarians don't know the beautiful rituals of Japan!\n
+<25828,86834,18>364: I tried to teach him!
+<25884,86853,19>365: You fucking white pig!\n
+<25940,86873,40>366: On the other hand Friedman is really thin and seems so cool...
+<25996,86914,74>367: He heard me say that one sentence and immediately started drawing up papers to disclaim the inheritance.
+<26052,86989,12>368: And then...
 <26076,87002,10>frd_000005
 <26124,87013,12>Friedman
-<26132,87026,28>369: 「さぁ、サインを、草薙直哉」
+<26132,87026,28>369: "Your signature please, Naoya Kusanagi."
 <26164,87055,7>ev7001b
 <26212,74928,4>Naoya
-<26220,87063,6>370: 「っ」
-<26276,87070,40>371: 　その場にいる人間すべてが注目している。
-<26332,87111,36>372: 　俺の一挙一動を見落とさない様に……
-<26388,87148,46>373: 　俺は今までにないほどの緊張感を味わっていた。
-<26444,87195,16>374: 　なんだこれは？
-<26500,87212,14>375: 　なんなんだ？
-<26556,87227,15>376: 　俺は察した。\n
-<26612,87243,24>377: すべてを察したのだった。
-<26668,87268,36>378: 「<r は>嵌</r>　め　ら　れ　た　！」
-<26724,87305,20>379: 　心の中で叫んだ俺。
-<26780,87326,10>380: 　時遅し、
-<26836,87337,14>381: 　いとをかし、
-<26892,87352,16>382: 　おかしくねぇ！
-<26948,87369,28>383: 　<r おもむき>趣</r>もねぇ！
-<27004,87398,48>384: 　俺から笑みは消え、代わりに脂汗がどっと流れた。
-<27060,87447,18>385: 「お　か　し　い」
-<27116,87466,20>386: 「絶対におかしいぃ」
-<27172,87487,22>387: 　段取り的におかしい。
-<27228,87510,30>388: 　こんなシナリオでは無かった！
-<27284,87541,50>389: 　最低でも三回は確認するシナリオでは無かったのか？
-<27340,87592,34>390: 　それが正しい進行であっただろう！
-<27396,87627,16>391: 　フリッドマン！
+<26220,87063,6>370: "Guh."
+<26276,87070,40>371: I draw the attention of everyone in the room.
+<26332,87111,36>372: Everyone is focused on even my subtle movements.
+<26388,87148,46>373: I savored a nervousness that I had never felt in my life before.
+<26444,87195,16>374: What's going on?
+<26500,87212,14>375: What the hell is this?
+<26556,87227,15>376: I realized.\n
+<26612,87243,24>377: I realized everything.
+<26668,87268,36>378: "I've    been    tricked    !"
+<26724,87305,20>379: I screamed internally.
+<26780,87326,10>380: Time slows.
+<26836,87337,14>381: An interesting turn of events.
+<26892,87352,16>382: What is interesting about this!?
+<26948,87369,28>383: What turn of events!?
+<27004,87398,48>384: My smile disappears, and instead I run a cold sweat.
+<27060,87447,18>385: "This    is    weird    ."
+<27116,87466,20>386: "Something is definitely weird here."
+<27172,87487,22>387: Something is wrong with the procedure here.
+<27228,87510,30>388: It wasn't supposed to turn out like this!
+<27284,87541,50>389: For something like this don't you need to check at least three times!?
+<27340,87592,34>390: Clearly that's the way you're supposed to do it!
+<27396,87627,16>391: Friedman!!!
 <27428,87644,7>ev7001a
 <27476,74928,4>Naoya
-<27484,87652,12>392: 「くっ……」
-<27540,87665,54>393: 　いろいろ考えたが、あまりに格好良く断言しすぎた手前。
-<27596,87720,16>394: 「あれ嘘です！」
-<27652,87737,14>395: 「今のなし！」
-<27708,87752,14>396: 「金ほしい！」
-<27764,87767,44>397: 「金もらえるならここで全裸にでもなります！」
-<27820,87812,34>398: 「むしろ全裸にならせてください！」
-<27876,87847,27>399: 　とか言う事も出来ずに……\n
-<27932,87875,8>400: 俺は……
-<27988,87884,14>401: 　この俺は……
+<27484,87652,12>392: "Ugh"
+<27540,87665,54>393: I thought about it a bit, and maybe my declaration was too badass.
+<27596,87720,16>394: "Actually that was a lie!"
+<27652,87737,14>395: "I take it back!"
+<27708,87752,14>396: "I want the money!"
+<27764,87767,44>397: "If I can get the money I'll even get naked right now!"
+<27820,87812,34>398: "Actually, please let me strip for you!"
+<27876,87847,27>399: I was unable to say any of that...\n
+<27932,87875,8>400: And then I...
+<27988,87884,14>401: I...
 <28020,84167,7>ev7001c
 <28068,74928,4>Naoya
-<28076,87899,50>402: 「これで、草薙健一郎と俺は関係ありませんから……」
+<28076,87899,50>402: "With this, I no longer have anything to do with Ken'ichiro Kusanagi."
 <28124,74928,4>Naoya
-<28132,87950,38>403: 「以後、俺と関わらないでください……」
+<28132,87950,38>403: "Please do not contact me again."
 <28328,87989,5>Black
-<28544,87995,38>404: 　と一言残して、その部屋から出てきた。
-<28600,88034,20>405: 　あの日から俺は……
-<28656,88055,40>406: 　草薙健一郎との関係をすべて断ち切った。
-<28712,88096,20>407: 　だからだろうか……
-<28768,88117,50>408: 　俺の心がこんなに平べったくなってしまったのは……
-<28824,88168,46>409: 　すべての風景が平べったくなってしまった……。
+<28544,87995,38>404: I said those few words, and left the room.
+<28600,88034,20>405: Ever since that day I...
+<28656,88055,40>406: Cut off all relations with Ken'ichiro Kusanagi.
+<28712,88096,20>407: Maybe that's why...
+<28768,88117,50>408: Maybe that's why everything has become so flat to me...
+<28824,88168,46>409: Why all landscapes have become flat...
 <28904,88215,9>evb001_n1
 <28944,71558,6>bgm021
 <28976,88225,10>ked_000049
 <29024,75502,2>Kei
-<29032,88236,28>410: 「って、直哉、直哉ってば！」
+<29032,88236,28>410: "Hey, Naoya...Naoya!!"
 <29056,88265,10>ked_000050
 <29104,75502,2>Kei
-<29112,88276,32>411: 「ど、どうしたんだよいきなり！」
+<29112,88276,32>411: "What's gotten into you all of the sudden!"
 <29160,74928,4>Naoya
-<29168,88309,48>412: 「あ、ああ、すまん。色々な事を思い出してた……」
+<29168,88309,48>412: "Ah...Ah, sorry! I just got lost in my memories..."
 <29192,88358,10>ked_000051
 <29240,75502,2>Kei
-<29248,88369,70>413: 「な、なんかたくさん流してたぞ……やっぱりお父さんの死が悲しいんだな」
+<29248,88369,70>413: "You...you must really be sad about your father's death. It was showing on your face."
 <29296,74928,4>Naoya
-<29304,88440,22>414: 「涙？　流れてたか？」
+<29304,88440,22>414: "My face? I was crying?"
 <29328,88463,10>ked_000052
 <29376,75502,2>Kei
-<29384,88474,26>415: 「いや鼻血だったけど……」
+<29384,88474,26>415: "Actually it was a nosebleed..."
 <29416,88501,7>evb001g
 <29464,74928,4>Naoya
-<29472,88509,14>416: 「そうか……」
+<29472,88509,14>416: "Oh..."
 <29520,74928,4>Naoya
-<29528,88524,64>417: 「心はこんなに平べったいのに……身体は血を流してしまうんだなぁ」
+<29528,88524,64>417: "My body is still pumping blood, even with a flat heart."
 <29576,74928,4>Naoya
-<29584,88589,56>418: 「そうだな……心より身体の方が正直なのかもしれない……」
-<29640,88646,66>419: 　心がいくら平べったくとも……身体は正直にあの時の事を覚えている。
-<29696,88713,52>420: （やっぱり全裸土下座してでも金をもらうべきだった！）
-<29752,88766,42>421: 　そう俺の身体は血を流して叫んでいるのだ。
+<29584,88589,56>418: "It's true...maybe the body can be more honest than the heart..."
+<29640,88646,66>419: No matter how flat the heart is, the body still faithfully remembers.
+<29696,88713,52>420: (I really should have stripped naked and gotten on all fours if it would get me the money!)
+<29752,88766,42>421: My body is screaming that just by pumping blood.
 <29800,74928,4>Naoya
-<29808,88809,42>422: 「だが、男には、そう出来ない時だってある」
+<29808,88809,42>422: "But there are times when men are unable to do what they should"
 <29856,74928,4>Naoya
-<29864,88852,40>423: 「耐えなきゃいけない時もあるんだよ……」
+<29864,88852,40>423: "There are times when we must endure."
 <29888,88893,10>ked_000053
 <29936,75502,2>Kei
-<29944,88904,80>424: 「な、直哉……なんか少し格好いい……。お、男は涙じゃなくて血を流せって事だな！」
+<29944,88904,80>424: "N-Naoya...you do seem a little badass...M-men don't shed tears, they shed blood after all!"
 <29992,74928,4>Naoya
-<30000,88985,12>425: 「……ふっ」
+<30000,88985,12>425: "...Hm."
 <30064,88998,10>aid_000001
 <30112,74896,6>???
-<30120,89009,44>426: 「お前ら……その漫才をいつまで続ける気だ？」
+<30120,89009,44>426: "How long are you two planning on continuing this gag?"
 <30152,89054,9>ev5000a_n
 <30192,89064,6>bgm010
 <30248,74928,4>Naoya
-<30256,89071,12>427: 「あ、藍？」
+<30256,89071,12>427: "A...Ai？"
 <30280,89084,10>ked_000054
 <30328,75502,2>Kei
 <30336,89095,32>428: 「姉貴、まだ帰ってなかったのか」
