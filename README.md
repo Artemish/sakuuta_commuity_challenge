@@ -15,7 +15,8 @@ Participants:
 7. u/VisualNovelInfoHata
 8. u/jordanwu
 9. u/Houkaishitaikigai
-10. 
+10. @ChigBungus69
+11. 
 
 # What you need to do:
 
