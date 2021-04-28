@@ -697,194 +697,194 @@
 <30256,89071,12>427: "A...Ai？"
 <30280,89084,10>ked_000054
 <30328,75502,2>Kei
-<30336,89095,32>428: 「姉貴、まだ帰ってなかったのか」
+<30336,89095,32>428: "Sis, you still haven't left?"
 <30368,89128,7>ev5000a
 <30392,89136,10>aid_000002
 <30440,89147,2>Ai
-<30448,89150,60>429: 「外じゃ夏目先生だと言ってるだろ。まったく記憶力がない弟だ」
+<30448,89150,60>429: "You should be referring to me as Ms. Natsume when outside. Jeez you have a bad memory."
 <30480,89211,7>ev5000e
 <30504,89219,10>aid_000003
 <30552,89147,2>Ai
-<30560,89230,44>430: 「それはそうと、草薙……今回は大変だったな」
-<30616,89275,88>431: 　圭の傍らに現れたその女性は、真っ黒な美しい髪を揺らしながら俺に向かって軽く頭を垂れた。
+<30560,89230,44>430: "And...Kusanagi...it must have been really rough on you."
+<30616,89275,88>431: The woman with beautiful, flowing black hair who appeared to the side of Kei turned to me and tilted her head slightly downward.
 <30664,74928,4>Naoya
-<30672,89364,60>432: 「いや……こっちこそいろいろと藍には世話になってしまったな」
+<30672,89364,60>432: "Not really...but thank you having been there for me Ai."
 <30696,89425,10>aid_000004
 <30744,89147,2>Ai
-<30752,89436,44>433: 「あ、いや葬式の件じゃなくて遺産放棄の件だ」
+<30752,89436,44>433: "Ah, I'm not talking about the funeral, I'm talking about when you disclaimed the inheritance."
 <30776,89481,12>ked_000055_n
 <30824,75502,2>Kei
-<30832,89494,12>434: 「何それ？」
+<30832,89494,12>434: "When you what?"
 <30880,74928,4>Naoya
-<30888,79804,8>435: 「……」
-<30944,89507,26>436: 　なんで藍が知ってるんだ？
-<31000,89534,42>437: 　一部の人間しか知らない事なハズだが……。
+<30888,79804,8>435: "..."
+<30944,89507,26>436: How does she know?
+<31000,89534,42>437: Only a very limited number of people were supposed to know that...
 <31032,89577,7>ev5000c
 <31056,89585,10>aid_000005
 <31104,89147,2>Ai
-<31112,89596,72>438: 「最初聞いた時は驚いたけど、よくよく考えたらお前らしいなぁ。と思ったよ」
+<31112,89596,72>438: "When I first heard about it I was surprised! But after I thought for a while, I realized it's something you would do."
 <31160,74928,4>Naoya
-<31168,89669,36>439: 「お、俺らしいか……そうかもな……」
-<31224,89706,18>440: 　俺らしいか……、
-<31280,89725,54>441: 　藍から見ても、俺という人間はそう見えるのだろう……。
-<31336,89780,26>442: 　金に揺らがぬ高潔な精神。
-<31392,89807,54>443: 　世俗の事などに惑わされる事無く、自分の美意識を貫く。
-<31448,89862,48>444: 　俺という人間はやはりそう見えてしまうのだろう。
+<31168,89669,36>439: "Something I would do...maybe yeah."
+<31224,89706,18>440: Something I would do...
+<31280,89725,54>441: I wonder how I look from Ai's viewpoint...
+<31336,89780,26>442: A spirit of integrity, unwavered by money.
+<31392,89807,54>443: Unbothered by worldly thoughts, carrying out my own aesthetic sense to the very end.
+<31448,89862,48>444: I must be something like that to her.
 <31472,89911,10>aid_000006
 <31520,89147,2>Ai
-<31528,89922,106>445: 「お前の事だから、“少しかっこいいなぁ”とか思って言ったのだろう。んで引くに引けない状態になったんだろ？」
+<31528,89922,106>445: "Since we're talking about you, I'd expect you to turn down the money after thinking something like 'I sure am a badass.' And by that time, things had already progressed too far."
 <31576,74928,4>Naoya
-<31584,90029,50>446: 「な　に　を　根　拠　に　言　っ　て　る　の　？」
+<31584,90029,50>446: "On    what    basis    do    you    say    that    ?"
 <31632,74928,4>Naoya
-<31640,90080,46>447: 「意　意　意　味　が　わ　か　ら　な　い　わ」
+<31640,90080,46>447: "I-    I-    I-    I    don't    get    it    ."
 <31672,89128,7>ev5000a
 <31696,90127,10>aid_000007
 <31744,89147,2>Ai
-<31752,90138,34>448: 「めちゃくちゃ動揺してるだろ……」
+<31752,90138,34>448: "You're trembling..."
 <31800,74928,4>Naoya
-<31808,90173,46>449: 「し　し　し　て　い　な　い　わ　よ　動　揺」
+<31808,90173,46>449: "Oh    my    gosh!    I-    I-    I-    I'm    not    trembling    ."
 <31832,90220,10>aid_000008
 <31880,89147,2>Ai
-<31888,90231,56>450: 「どうでもいいが、なんでカマ言葉になるんだ……お前……」
+<31888,90231,56>450: "It's not important, but that 'oh my gosh' sounded a little gay..."
 <31936,74928,4>Naoya
-<31944,90288,46>451: 「あ、藍が、めちゃくちゃな事を言うからだ……」
+<31944,90288,46>451: "I- I sound like that because you're saying such weird stuff..."
 <31976,89577,7>ev5000c
 <32000,90335,10>aid_000009
 <32048,89147,2>Ai
-<32056,90346,90>452: 「ふぅ……なにがめちゃくちゃだ。めちゃくちゃはお前だろう。普通ならあんなまねしないぞ……」
+<32056,90346,90>452: "Hmph...what's weird? The weird one is you. Normally I wouldn't say things like that..."
 <32080,90437,10>aid_000010
 <32128,89147,2>Ai
-<32136,90448,43>453: 「これでもお前の事をずっと見てきた私だぞ。\n
+<32136,90448,43>453: "We've spent a lot of time together you know.\n
 <32184,89147,2>Ai
-<32192,90492,48>454: お前が何故あんな事をしたのかだいたい分かる……」
+<32192,90492,48>454: I have a pretty good idea of why you did something like that."
 <32216,90541,10>aid_000011
 <32264,89147,2>Ai
-<32272,90552,43>455: 「なんであんな馬鹿げたまねをしたのか……。\n
+<32272,90552,43>455: "Why you did something that dumb...\n
 <32320,89147,2>Ai
-<32328,90596,22>456: 鈍い私でも分かる……」
+<32328,90596,22>456: even someone as slow as me understands..."
 <32376,74928,4>Naoya
-<32384,90619,26>457: 「だ、だから、何の話だ？」
+<32384,90619,26>457: "What are you talking about?"
 <32416,89211,7>ev5000e
 <32440,90646,10>aid_000012
 <32488,89147,2>Ai
-<32496,90657,42>458: 「遺産相続の放棄だよ。今更とぼける気か？」
+<32496,90657,42>458: "I'm talking about how you disclaimed your inheritance. You're still trying to feign ignorance?"
 <32544,74928,4>Naoya
-<32552,90700,54>459: 「と、とぼけるも何も、俺には何の事だかさっぱりだ……」
+<32552,90700,54>459: "Feign ignorance? I- I have no idea what you're talking about..."
 <32576,90755,10>aid_000013
 <32624,89147,2>Ai
-<32632,90766,45>460: 「ふーんそうか……。あくまでもとぼけるのか。\n
+<32632,90766,45>460: "Hmmmm is that right? You're that intent on feigning ignorance.\n
 <32680,89147,2>Ai
-<32688,90812,64>461: せっかく、遺産放棄の書類を無効にする方法を教えようと思ったのに」
+<32688,90812,64>461: That's a shame because I was going to tell you how to invalidate your disclaimer."
 <32736,74928,4>Naoya
-<32744,90877,84>462: 「え？　まじ？　マジで？　うそ、教えて！　全裸にだってなるし、土下座だってするよ！」
+<32744,90877,84>462: "Wait. Really? Seriously? No way, tell me! I'll get naked for you! I'll get on all fours for you!"
 <32776,90962,7>ev5000f
 <32800,90970,10>aid_000014
 <32848,89147,2>Ai
-<32856,79804,8>463: 「……」
+<32856,79804,8>463: “...”
 <32880,90981,10>ked_000056
 <32928,75502,2>Kei
-<32936,79804,8>464: 「……」
+<32936,79804,8>464: “...”
 <32984,74928,4>Naoya
-<32992,90992,12>465: 「はっ！？」
+<32992,90992,12>465: "Huh!?"
 <33024,91005,7>ev5000d
 <33048,91013,10>aid_000015
 <33096,89147,2>Ai
-<33104,91024,22>466: 「さすがにひくわ……」
+<33104,91024,22>466: "Ummm yikes..."
 <33128,91047,10>ked_000057
 <33176,75502,2>Kei
-<33184,75087,12>467: 「直哉……」
+<33184,75087,12>467: "Naoya..."
 <33232,74928,4>Naoya
-<33240,91058,60>468: 「ち、違う、今のはその？　なんだ？　全裸が好きというか……」
+<33240,91058,60>468: "No, wait, I can explain. I mean, I kinda prefer nudity..."
 <33264,91119,10>ked_000058
 <33312,75502,2>Kei
-<33320,91130,14>469: 「露出狂か！」
+<33320,91130,14>469: "He's an exhibitionist!"
 <33368,74928,4>Naoya
-<33376,91145,12>470: 「そうだ！」
+<33376,91145,12>470: "Yes, exactly!"
 <33408,91158,7>ev5000b
 <33432,91166,10>aid_000016
 <33480,89147,2>Ai
-<33488,91177,68>471: 「苦し紛れにでたらめ言うな！　あほか！　余計自分を追い詰めてるぞ！」
+<33488,91177,68>471: "Don't spew nonsense just because you're driven into a corner! You idiot! You're just making things worse for yourself!"
 <33536,74928,4>Naoya
-<33544,91246,58>472: 「だって、そうでもしないと……ちきしょう、ちきしょう……」
+<33544,91246,58>472: "But if I don't...fuck...fuck..."
 <33576,89128,7>ev5000a
 <33600,91305,10>aid_000017
 <33648,89147,2>Ai
-<33656,91316,38>473: 「やっぱり金がほしかったんだろう……」
+<33656,91316,38>473: "You really did want the money didn't you?"
 <33704,74928,4>Naoya
-<33712,91355,90>474: 「ああ、そうだよ。本当は金がほしかったんだよ。喉から手が出るぐらい金がほしかったんだ……」
+<33712,91355,90>474: "Yeah, I did. I really wanted that money. I'd do anything for that money to be honest..."
 <33736,91446,10>ked_000059
 <33784,75502,2>Kei
-<33792,91457,52>475: 「金ってなんだよ？　その遺産放棄って何の話なんだ？」
+<33792,91457,52>475: "What money? What do you mean by disclaiming the inheritance?"
 <33824,89211,7>ev5000e
 <33848,91510,10>aid_000018
 <33896,89147,2>Ai
-<33904,91521,50>476: 「草薙なぁ、草薙健一郎の遺産を全額放棄したんだよ」
+<33904,91521,50>476: "You see Kusanagi...disclaimed the entirety of Ken'ichiro Kusanagi's inheritance"
 <33928,91572,10>ked_000060
 <33976,75502,2>Kei
-<33984,91583,60>477: 「そうなんだ……。んで？　いくらぐらいなの？　その遺産って」
+<33984,91583,60>477: "I see...so how much was it worth?"
 <34008,91644,10>aid_000019
 <34056,89147,2>Ai
-<34064,91655,18>478: 「およそ１５億円」
+<34064,91655,18>478: "About 14 million dollars."
 <34088,91674,10>ked_000061
 <34136,75502,2>Kei
-<34144,91685,12>479: 「マジで？」
+<34144,91685,12>479: "Seriously?"
 <34192,74928,4>Naoya
-<34200,91698,22>480: 「つい出来心でな……」
+<34200,91698,22>480: "You see I just got a little impulsive..."
 <34224,91721,10>ked_000062
 <34272,75502,2>Kei
-<34280,91732,30>481: 「なんでそんな無茶したんだよ」
+<34280,91732,30>481: "How could you do something that reckless?"
 <34328,74928,4>Naoya
-<34336,91763,144>482: 「だから出来心だと言ってるだろう……日本人的な美意識というか倫理観というか、芸術的判断というか……そういう高尚なものが俺を揺るがしたんだよ……」
+<34336,91763,144>482: "That's why I'm saying it was just an impulse! Call it Japanese aesthetic sense, call it my moral outlook, call it an artistic decision...I was wavered by my noble ideals!"
 <34368,89128,7>ev5000a
 <34392,91908,10>aid_000020
 <34440,89147,2>Ai
-<34448,91919,42>483: 「高尚なものが判断を揺るがした。ねぇ……」
+<34448,91919,42>483: "You say your decision-making was wavered by noble ideals..."
 <34496,74928,4>Naoya
-<34504,91962,68>484: 「ああ、そうなんだ。でも、今なら分かるんだ。金がどれだけ大事か……」
+<34504,91962,68>484: "Yeah, that's right. But now I understand just how important money is."
 <34552,74928,4>Naoya
-<34560,92031,110>485: 「金は魂よりも命よりも重い。金が無ければ首が無いのと同じだ。金で世界は動いている。世界とは金の総体なんだ……」
+<34560,92031,110>485: "Money is more important than the soul or life itself. Life without money is like living without a head. The world operates based on money. The world itself can be said to be a macrocosm of money."
 <34592,91005,7>ev5000d
 <34616,92142,10>aid_000021
 <34664,89147,2>Ai
-<34672,92153,66>486: 「とてもじゃないが、高尚な美意識を持った人間の発言とは思えんぞ？」
+<34672,92153,66>486: "At any rate, I don't think those are words that would come out of the mouth of a person with a noble aesthetic sense."
 <34720,74928,4>Naoya
-<34728,92220,42>487: 「そんな事はどうでもイイ！　金が大事だ！」
+<34728,92220,42>487: "That's not important! What is important is money!"
 <34760,89211,7>ev5000e
 <34784,92263,10>ked_000063
 <34832,75502,2>Kei
-<34840,92274,116>488: 「そんな<r す>荒</r>れた発言するなよ。なんか悲しいぞ俺は……。だいたい姉貴がどうにかしてくれるらしいじゃないか……」
+<34840,92274,116>488: "You don't need to say something so combatative. You're gonna make me sad...isn't my sister doing everything she can for you?"
 <34888,74928,4>Naoya
-<34896,92391,132>489: 「ああ、そうだよ。ありがとう藍。これで、俺は金持ちだ……。金ですべてが買える。金ですべてを支配出来る。良かった、本当に良かったよぉ」
+<34896,92391,132>489: "Ah, that's right. Thank you, Ai. Thanks to you, I am rich...I can buy everything with this money. With this money, I'll have dominion over all. What a relief, really."
 <34920,92524,10>ked_000064
 <34968,75502,2>Kei
-<34976,92535,22>490: 「良かったなぁ。直哉」
+<34976,92535,22>490: "Glad things worked out, Naoya."
 <35024,74928,4>Naoya
-<35032,92558,30>491: 「良かった。良かったよぉ……」
+<35032,92558,30>491: "Yeah, I'm glad too..."
 <35064,89577,7>ev5000c
 <35088,92589,10>aid_000022
 <35136,89147,2>Ai
-<35144,92600,8>492: 「嘘だ」
+<35144,92600,8>492: “I lied.”
 <35192,74928,4>Naoya
-<35200,92609,12>493: 「ウソダ？」
+<35200,92609,12>493: "YOU LIED?"
 <35224,92622,10>aid_000023
 <35272,89147,2>Ai
-<35280,92633,14>494: 「あれは嘘だ」
+<35280,92633,14>494: "That was a lie."
 <35328,74928,4>Naoya
-<35336,92648,18>495: 「アレハウソダ？」
+<35336,92648,18>495: "THAT WAS A LIE?"
 <35360,92667,10>aid_000024
 <35408,89147,2>Ai
-<35416,92678,38>496: 「遺産放棄を無効にする方法など知らん」
+<35416,92678,38>496: "I have no idea how to invalidate your disclaimer of inheritance."
 <35464,74928,4>Naoya
-<35472,92717,38>497: 「伊サン箒ヲ婿ニスル方法ナドシラン？」
+<35472,92717,38>497: "Y0U H4V3 N0 1D34 H0W 70 1NV4L1D47E MY D15CL41ME12 0F 1NH312174NC3?"
 <35504,91005,7>ev5000d
 <35528,92756,10>aid_000025
 <35576,89147,2>Ai
-<35584,92767,146>498: 「現実逃避はやめろ……お金は返ってこないぞ。というか格好つけただけならいざ知らず、ご丁寧にサインまでして、金なんぞ返ってくるわけが無いだろう……」
+<35584,92767,146>498: "Stop running away from reality; the money isn't coming back. I have no idea why you tried to act cool, but to go so far as to sign those documents...there's probably no way you'll ever get that money back."
 <35632,74928,4>Naoya
-<35640,92914,40>499: 「カネナンゾカエッテクルワケナイダロー」
+<35640,92914,40>499: "PROBABLY NO WAY I'LL EVER GET THAT MONEY BACK."
 <35672,89211,7>ev5000e
 <35720,74928,4>Naoya
-<35728,92955,10>500: 「ダロー」
+<35728,92955,10>500: "PROBABLY."
 <35752,92966,10>ked_000065
 <35800,75502,2>Kei
 <35808,92977,92>501: 「え、えっと……あ、あのさぁ直哉……。現実を直視しようよ。現実逃避しても仕方ないじゃないか」
