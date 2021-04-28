@@ -9,7 +9,7 @@ Participants (notes in parens):
 1. @gambsVNs
 2. @kimikalover53
 3. @Hayashishintoku
-4. @3dmakai
+4. @3dmakai (pica pica)
 5. @superange128 (H-scenes)
 6. @kayi___
 7. u/VisualNovelInfoHata
