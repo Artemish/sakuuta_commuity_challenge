@@ -17,7 +17,8 @@ Participants (notes in parens):
 9. u/Houkaishitaikigai (hasn't read it before)
 10. @ChigBungus69
 11. u/Jun209 (andoe or V)
-12.
+12. @TheChuee (something to do with Ai)
+13. 
 
 # What you need to do:
 
