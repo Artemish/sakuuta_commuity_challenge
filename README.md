@@ -24,6 +24,8 @@ Participants (notes in parens):
 
 Open `translation.csv` in some spreadsheet software, locate your 1000 lines, and put your English translation into the second column.
 
+When you are done with your translation, send your `translation.csv` file to gambs, and it will be integrated into this repository.
+
 # What is in this repo
 
 `raw_scripts`: Encrypted/packaged script files directly from the game
