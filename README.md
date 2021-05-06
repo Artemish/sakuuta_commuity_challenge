@@ -2,6 +2,8 @@
 
 Everyone translates 1000 lines of Sakura no Uta. We will bring this game to the English-speaking world through the power of FRIENDSHIP.
 
+**Warning**: Many files in this repo including `translate.py` contain spoilers.
+
 Sakura no Uta has approximately 63198 lines.
 
 Participants (notes in parens):
