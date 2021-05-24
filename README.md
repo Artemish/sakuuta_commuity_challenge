@@ -20,7 +20,8 @@ Participants (notes in parens):
 10. @ChigBungus69
 11. u/Jun209 (andoe or V)
 12. @TheChuee (something to do with Ai + Marchen)
-13. 
+13. Candle Kun
+14. 
 
 # What you need to do:
 
