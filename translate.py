@@ -180,19 +180,23 @@ def create_translation_csv(outname=''):
     for fname in fnames:
         with open(fname) as f:
             scriptline = f.readline()
+            speaker = 'Self'
             while scriptline:
                 scriptline = f.readline()
                 m = re.search(r'.*?>([^a-zA-Z].*)', scriptline)
                 if m is not None:
                     jp_line = m.group(1)
+                    if jp_line in name_dict.keys():
+                        speaker = name_dict[jp_line]
                     if jp_line not in name_dict.keys() and '#FFFFFF' not in jp_line and '6sakura' not in jp_line:  # TODO: Fix
-                        total_lines.append((jp_line, fname))
+                        total_lines.append((jp_line, speaker, fname))
+                        speaker = 'Self'
     print('Total number of lines: {}'.format(len(total_lines)))
 
     with open(outname, 'w') as csvfile:
         csvwriter = csv.writer(csvfile)
-        for line, fname in total_lines:
-            csvwriter.writerow([line, line, fname])
+        for line, speaker, fname in total_lines:
+            csvwriter.writerow([line, line, fname, speaker])
 
 def create_translation_scripts():
     translation = []
