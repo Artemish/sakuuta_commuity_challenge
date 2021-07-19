@@ -1,0 +1,238 @@
+<div>
+  <div x-data = "{expanded: false}" x-data = "{expanded: false}">
+    <div @click="expanded = !expanded" class="header">
+      <h2>
+        Opening
+        <span x-text="expanded ? '&uarr;' : '&darr;'">
+        </span>
+      </h2>
+    </div>
+
+    <ul x-show="expanded">
+      <li><a href="/sections/00_op_01.txt">Section 01</a></li>
+      <li><a href="/sections/00_op_02.txt">Section 02</a></li>
+      <li><a href="/sections/00_op_03.txt">Section 03</a></li>
+      <li><a href="/sections/00_op_04.txt">Section 04</a></li>
+    </ul>
+  </div>
+  <div x-data = "{expanded: false}">
+    <div @click="expanded = !expanded" class="header">
+      <h2>
+        Fruhlingsbeginn
+        <span x-text="expanded ? '&uarr;' : '&darr;'">
+        </span>
+      </h2>
+    </div>
+    <ul x-show="expanded">
+      <li><a href="/sections/01_fruhlingsbeginn_01.txt">Section 01</a></li>
+      <li><a href="/sections/01_fruhlingsbeginn_02.txt">Section 02</a></li>
+      <li><a href="/sections/01_fruhlingsbeginn_03.txt">Section 03</a></li>
+      <li><a href="/sections/01_fruhlingsbeginn_04.txt">Section 04</a></li>
+      <li><a href="/sections/01_fruhlingsbeginn_05.txt">Section 05</a></li>
+      <li><a href="/sections/01_fruhlingsbeginn_06.txt">Section 06</a></li>
+    </ul>
+  </div>
+  <div x-data = "{expanded: false}">
+    <div @click="expanded = !expanded" class="header">
+      <h2>
+        Abend
+        <span x-text="expanded ? '&uarr;' : '&darr;'">
+        </span>
+      </h2>
+    </div>
+    <ul x-show="expanded">
+      <li><a href="/sections/02_abend_01.txt">Section 01</a></li>
+      <li><a href="/sections/02_abend_02.txt">Section 02</a></li>
+      <li><a href="/sections/02_abend_03.txt">Section 03</a></li>
+      <li><a href="/sections/02_abend_04.txt">Section 04</a></li>
+      <li><a href="/sections/02_abend_05.txt">Section 05</a></li>
+      <li><a href="/sections/02_abend_05a.txt">Section 05a</a></li>
+      <li><a href="/sections/02_abend_06.txt">Section 06</a></li>
+      <li><a href="/sections/02_abend_07.txt">Section 07</a></li>
+      <li><a href="/sections/02_abend_08.txt">Section 08</a></li>
+      <li><a href="/sections/02_abend_08a.txt">Section 08a</a></li>
+      <li><a href="/sections/02_abend_09.txt">Section 09</a></li>
+      <li><a href="/sections/02_abend_09a.txt">Section 09a</a></li>
+      <li><a href="/sections/02_abend_10.txt">Section 10</a></li>
+      <li><a href="/sections/02_abend_11.txt">Section 11</a></li>
+      <li><a href="/sections/02_abend_12.txt">Section 12</a></li>
+      <li><a href="/sections/02_abend_13.txt">Section 13</a></li>
+      <li><a href="/sections/02_abend_14.txt">Section 14</a></li>
+      <li><a href="/sections/02_abend_an01.txt">Section an01</a></li>
+      <li><a href="/sections/02_abend_an02.txt">Section an02</a></li>
+      <li><a href="/sections/02_abend_pi01.txt">Section pi01</a></li>
+      <li><a href="/sections/02_abend_pi02.txt">Section pi02</a></li>
+      <li><a href="/sections/02_abend_pi03.txt">Section pi03</a></li>
+      <li><a href="/sections/02_abend_pi04.txt">Section pi04</a></li>
+      <li><a href="/sections/02_abend_pi05.txt">Section pi05</a></li>
+      <li><a href="/sections/02_abend_pi06.txt">Section pi06</a></li>
+      <li><a href="/sections/02_abend_rn01.txt">Section rn01</a></li>
+      <li><a href="/sections/02_abend_rn02.txt">Section rn02</a></li>
+      <li><a href="/sections/02_abend_rn02b.txt">Section rn02b</a></li>
+      <li><a href="/sections/02_abend_rn03.txt">Section rn03</a></li>
+      <li><a href="/sections/02_abend_rn04.txt">Section rn04</a></li>
+      <li><a href="/sections/02_abend_rn05.txt">Section rn05</a></li>
+      <li><a href="/sections/02_abend_rn06.txt">Section rn06</a></li>
+      <li><a href="/sections/02_abend_ze01.txt">Section ze01</a></li>
+      <li><a href="/sections/02_abend_ze02.txt">Section ze02</a></li>
+      <li><a href="/sections/02_abend_ze03.txt">Section ze03</a></li>
+      <li><a href="/sections/02_abend_ze04.txt">Section ze04</a></li>
+      <li><a href="/sections/02_abend_ze05.txt">Section ze05</a></li>
+      <li><a href="/sections/02_abend_ze06.txt">Section ze06</a></li>
+      <li><a href="/sections/02_abend_ze07.txt">Section ze07</a></li>
+      <li><a href="/sections/02_abend_ze08.txt">Section </a></li>
+    </ul>
+  </div>
+  <div x-data = "{expanded: false}">
+    <div @click="expanded = !expanded" class="header">
+      <h2>
+        Andoe
+        <span x-text="expanded ? '&uarr;' : '&darr;'">
+        </span>
+      </h2>
+    </div>
+    <ul x-show="expanded">
+      <li><a href="/sections/03_andoe_01.txt">Section 01</a></li>
+      <li><a href="/sections/03_andoe_02.txt">Section 02</a></li>
+      <li><a href="/sections/03_andoe_03.txt">Section 03</a></li>
+      <li><a href="/sections/03_andoe_04.txt">Section 04</a></li>
+      <li><a href="/sections/03_andoe_05.txt">Section 05</a></li>
+    </ul>
+  </div>
+  <div x-data = "{expanded: false}">
+    <div @click="expanded = !expanded" class="header">
+      <h2>
+        Marchen
+        <span x-text="expanded ? '&uarr;' : '&darr;'">
+        </span>
+      </h2>
+    </div>
+    <ul x-show="expanded">
+      <li><a href="/sections/03_marchen_01.txt">Section 01</a></li>
+      <li><a href="/sections/03_marchen_02.txt">Section 02</a></li>
+    </ul>
+  </div>
+  <div x-data = "{expanded: false}">
+    <div @click="expanded = !expanded" class="header">
+      <h2>
+        Olympia
+        <span x-text="expanded ? '&uarr;' : '&darr;'">
+        </span>
+      </h2>
+    </div>
+    <ul x-show="expanded">
+      <li><a href="/sections/03_olympia_01.txt">Section 01</a></li>
+      <li><a href="/sections/03_olympia_02.txt">Section 02</a></li>
+      <li><a href="/sections/03_olympia_03.txt">Section 03</a></li>
+      <li><a href="/sections/03_olympia_04.txt">Section 04</a></li>
+      <li><a href="/sections/03_olympia_05.txt">Section 05</a></li>
+      <li><a href="/sections/03_olympia_06.txt">Section 06</a></li>
+      <li><a href="/sections/03_olympia_07.txt">Section 07</a></li>
+      <li><a href="/sections/03_olympia_08.txt">Section 08</a></li>
+      <li><a href="/sections/03_olympia_09.txt">Section 09</a></li>
+    </ul>
+  </div>
+  <div x-data = "{expanded: false}">
+    <div @click="expanded = !expanded" class="header">
+      <h2>
+        Picapica
+        <span x-text="expanded ? '&uarr;' : '&darr;'">
+        </span>
+      </h2>
+    </div>
+    <ul x-show="expanded">
+      <li><a href="/sections/03_picapica_01.txt">Section 01</a></li>
+      <li><a href="/sections/03_picapica_02.txt">Section 02</a></li>
+      <li><a href="/sections/03_picapica_03.txt">Section 03</a></li>
+      <li><a href="/sections/03_picapica_04.txt">Section 04</a></li>
+      <li><a href="/sections/03_picapica_05.txt">Section 05</a></li>
+      <li><a href="/sections/03_picapica_06.txt">Section 06</a></li>
+      <li><a href="/sections/03_picapica_07.txt">Section 07</a></li>
+      <li><a href="/sections/03_picapica_08.txt">Section 08</a></li>
+      <li><a href="/sections/03_picapica_09.txt">Section 09</a></li>
+      <li><a href="/sections/03_picapica_10.txt">Section 10</a></li>
+      <li><a href="/sections/03_picapica_11.txt">Section 11</a></li>
+      <li><a href="/sections/03_picapica_12.txt">Section 12</a></li>
+      <li><a href="/sections/03_picapica_13.txt">Section 13</a></li>
+    </ul>
+  </div>
+  <div x-data = "{expanded: false}">
+    <div @click="expanded = !expanded" class="header">
+      <h2>
+        Zypressen
+        <span x-text="expanded ? '&uarr;' : '&darr;'">
+        </span>
+      </h2>
+    </div>
+    <ul x-show="expanded">
+      <li><a href="/sections/03_zypressen_01.txt">Section 01</a></li>
+      <li><a href="/sections/03_zypressen_02.txt">Section 02</a></li>
+      <li><a href="/sections/03_zypressen_03.txt">Section 03</a></li>
+      <li><a href="/03_zypressen_04.txt">Section 04</a></li>
+      <li><a href="/sections/03_zypressen_05.txt">Section 05</a></li>
+      <li><a href="/sections/03_zypressen_06.txt">Section 06</a></li>
+      <li><a href="/sections/03_zypressen_06a.txt">Section 06a</a></li>
+      <li><a href="/sections/03_zypressen_07.txt">Section 07</a></li>
+      <li><a href="/sections/03_zypressen_08.txt">Section 08</a></li>
+      <li><a href="/sections/03_zypressen_09.txt">Section 09</a></li>
+      <li><a href="/sections/03_zypressen_10.txt">Section 10</a></li>
+      <li><a href="/sections/03_zypressen_11.txt">Section 11</a></li>
+      <li><a href="/sections/03_zypressen_12.txt">Section 12</a></li>
+      <li><a href="/sections/03_zypressen_13.txt">Section 13</a></li>
+      <li><a href="/sections/03_zypressen_14.txt">Section 14</a></li>
+    </ul>
+  </div>
+  <div x-data = "{expanded: false}">
+    <div @click="expanded = !expanded" class="header">
+      <h2>
+        What is Mind?
+        <span x-text="expanded ? '&uarr;' : '&darr;'">
+        </span>
+      </h2>
+    </div>
+    <ul x-show="expanded">
+      <li><a href="/sections/04_what_is_mind？_01.txt">Section 01</a></li>
+      <li><a href="/sections/04_what_is_mind？_02.txt">Section 02</a></li>
+    </ul>
+  </div>
+  <div x-data = "{expanded: false}">
+    <div @click="expanded = !expanded" class="header">
+      <h2>
+        The Happy Prince
+        <span x-text="expanded ? '&uarr;' : '&darr;'">
+        </span>
+      </h2>
+    </div>
+    <ul x-show="expanded">
+      <li><a href="/sections/05_the_happy_prince_01.txt">Section 01</a></li>
+      <li><a href="/sections/05_the_happy_prince_02.txt">Section 02</a></li>
+      <li><a href="/sections/05_the_happy_prince_03.txt">Section 03</a></li>
+      <li><a href="/sections/05_the_happy_prince_04.txt">Section 04</a></li>
+      <li><a href="/sections/05_the_happy_prince_05.txt">Section 05</a></li>
+      <li><a href="/sections/05_the_happy_prince_06.txt">Section 06</a></li>
+      <li><a href="/sections/05_the_happy_prince_07.txt">Section 07</a></li>
+      <li><a href="/sections/05_the_happy_prince_08.txt">Section 08</a></li>
+      <li><a href="/sections/05_the_happy_prince_08b.txt">Section 08b</a></li>
+      <li><a href="/sections/05_the_happy_prince_09b.txt">Section 09b</a></li>
+    </ul>
+  </div>
+  <div x-data = "{expanded: false}">
+    <div @click="expanded = !expanded" class="header">
+      <h2>
+        Ⅵ
+        <span x-text="expanded ? '&uarr;' : '&darr;'">
+        </span>
+      </h2>
+    </div>
+    <ul x-show="expanded">
+      <li><a href="/sections/06_Ⅵ_01.txt">Section 01</a></li>
+      <li><a href="/sections/06_Ⅵ_02.txt">Section 02</a></li>
+      <li><a href="/sections/06_Ⅵ_03.txt">Section 03</a></li>
+      <li><a href="/sections/06_Ⅵ_04.txt">Section 04</a></li>
+      <li><a href="/sections/06_Ⅵ_05.txt">Section 05</a></li>
+      <li><a href="/sections/06_Ⅵ_06.txt">Section 06</a></li>
+      <li><a href="/sections/06_Ⅵ_07.txt">Section 07</a></li>
+      <li><a href="/sections/06_Ⅵ_08.txt">Section 08</a></li>
+    </ul>
+  </div>
+</div>
